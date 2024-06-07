@@ -1,0 +1,2486 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "#236192",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        },
+        "description": "Befüllung mitgebrachter Becher möglich; Verkauf von Mehrwegbechern; Hat Pfandbecher für einen Pfandpreis von 1 Euro von reCup.\n\nhttps://www.alnatura.de/de-de/maerkte/marktfinder/",
+        "name": "Alnatura Biosupermarkt, Langer Anger 7-9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.672419,
+          49.398625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "#236192"
+        },
+        "description": "Befüllung mitgebrachter Becher möglich; Verkauf von Mehrwegbechern; hat Pfandbecher für einen Pfandpreis von 1 Euro von reCup.\n\nhttps://www.alnatura.de/de-de/maerkte/marktfinder/",
+        "name": "Alnatura Biosupermarkt, Poststraße 36/5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.688667,
+          49.40787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amoroso, Märzgasse 10",
+        "description": "Befüllung mitgebrachter Becher möglich\n\nhttp://www.amoroso-heidelberg.de/",
+        "_storage_options": {
+          "color": "#bbe2d9",
+          "iconUrl": "/uploads/pictogram/cafe-24.png"
+        },
+        "_umap_options": {
+          "color": "#e87722",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.699836,
+          49.410492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Befüllung mitgebrachter Becher möglich; 0,10 Euro Rabatt; Verkauf von Mehrwegbechern;  hat Pfandbecher für einen Pfandpreis von 1 Euro von reCup.\n",
+        "name": "ARAL Tankstelle, Am Götzenberg 13",
+        "_storage_options": {
+          "color": "#bbe2d9",
+          "iconUrl": "/uploads/pictogram/cafe-24.png"
+        },
+        "_umap_options": {
+          "color": "#236192",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.701076,
+          49.370474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Befüllung mitgebrachter Becher möglich; hat Pfandbecher für einen Pfandpreis von 1 Euro von reCup; 0,10 Euro Rabatt; Verkauf von Mehrwegbechern; ",
+        "name": "ARAL Tankstelle, Bergheimer Straße 90",
+        "_storage_options": {
+          "color": "#bbe2d9",
+          "iconUrl": "/uploads/pictogram/cafe-24.png"
+        },
+        "_umap_options": {
+          "color": "#236192",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.678208,
+          49.408077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "#236192"
+        },
+        "description": "Befüllung mitgebrachter Becher möglich; hat Pfandbecher für einen Pfandpreis von 1 Euro von reCup; Hat für Speisen REBOWL-Pfandbehälter zum Mitnehmen.",
+        "name": "ATOS Klinikservice GmbH, Bismarckstraße 9-15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.692063,
+          49.410355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Befüllung mitgebrachter Becher möglich; 0,35 Euro Rabatt; Teilnahme an \"Climate fair to go\"\n\nhttp://www.goebes.com/\n",
+        "name": "Bäckerei Göbes, Plöck 34 ",
+        "_storage_options": {
+          "color": "Sienna",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        },
+        "_umap_options": {
+          "color": "#e87722",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.699703,
+          49.409253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bäckerei Göbes, Sofienstraße 19",
+        "description": "Befüllung mitgebrachter Becher möglich; 0,35 Euro Rabatt; Teilnahme an \"Climate fair to go\"\n\nhttp://www.goebes.com/\n\n",
+        "_storage_options": {
+          "color": "Sienna",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        },
+        "_umap_options": {
+          "color": "#e87722",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.693962,
+          49.408889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bäckerei Grimm, Märzgasse 10",
+        "description": "Befüllung mitgebrachter Becher möglich",
+        "_umap_options": {
+          "color": "#e87722"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.699804,
+          49.410188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bäckerei Kohlmann, Im Neuenheimer Feld 370",
+        "description": "Befüllung mitgebrachter Becher möglich; 0,30 Euro Rabatt; ",
+        "_storage_options": {
+          "color": "Sienna",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        },
+        "_umap_options": {
+          "color": "#e87722",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.671061,
+          49.414613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bäckerei Rutz - Rewe Markt, Felix-Wankel-Straße 20",
+        "description": "Befüllung mitgebrachter Becher möglich\n\nhttp://www.rutz.de\n",
+        "_storage_options": {
+          "color": "Sienna",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        },
+        "_umap_options": {
+          "color": "#e87722",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.678382,
+          49.383596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Befüllung mitgebrachter Becher möglich; 0,30 Euro Rabatt;\n\nhttp://www.barcentrale-hd.de\n\n",
+        "name": "Bar Centrale, Ladenburger Str. 17",
+        "_storage_options": {
+          "color": "Sienna",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        },
+        "_umap_options": {
+          "color": "#e87722",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.690604,
+          49.414477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "#236192"
+        },
+        "name": "BENT, Café Bagels Eismanufaktur, Hauptstraße 15",
+        "description": "Befüllung mitgebrachter Becher möglich. Hat Pfandbecher für einen Pfandpreis von 1 Euro von reCup."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.694879,
+          49.410125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bergheim41, Bergheimer Str. 41",
+        "description": "Befüllung mitgebrachter Becher möglich.\n\nhttps://www.bergheim41.de/",
+        "_umap_options": {
+          "color": "#e87722"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.688619,
+          49.408303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "#236192"
+        },
+        "description": "Befüllung mitgebrachter Becher möglich. Hat Pfandbecher für einen Pfandpreis von 1 Euro von reCup. Hat für Speisen REBOWL-Pfandbehälter zum Mitnehmen.",
+        "name": "BONVITA Restaurant, Grenzhöfer Weg 36"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.637779,
+          49.424364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Café Auszeit, Schulzengasse 11 ",
+        "description": "Befüllung mitgebrachter Becher möglich; 0,50 Euro Rabatt.\n\nhttp://www.caffe-auszeit.de",
+        "_storage_options": {
+          "color": "#bbe2d9",
+          "iconUrl": "/uploads/pictogram/cafe-24.png"
+        },
+        "_umap_options": {
+          "color": "#e87722",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.690856,
+          49.414722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "#236192"
+        },
+        "description": "Befüllung mitgebrachter Becher möglich. Hat Pfandbecher für einen Pfandpreis von 1 Euro von reCup.\n\nhttps://www.studentenwerk.uni-heidelberg.de/de/node/367",
+        "name": "Café BlauPause (PH-Café INF 561), Im Neuenheimer Feld 561"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.669382,
+          49.420023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "#236192"
+        },
+        "description": "Befüllung mitgebrachter Becher möglich. Hat RECUP Pfandbecher für einen Pfandpreis von 1 Euro. Hat für Speisen REBOWL-Pfandbehälter zum Mitnehmen.\n\nhttps://www.studentenwerk.uni-heidelberg.de/de/node/363",
+        "name": "Café Botanik (Zentralmensa), Im Neuenheimer Feld 304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.67031,
+          49.415263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Café Frisch OHG, Im Buschgewann 44",
+        "description": "Befüllung mitgebrachter Becher möglich; Verkauf von Mehrwegbechern\n\nhttp://www.cafe-frisch.de",
+        "_storage_options": {
+          "color": "Sienna",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        },
+        "_umap_options": {
+          "color": "#e87722",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.646349,
+          49.397496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Café Frisch, Jahnstraße 34",
+        "description": "Befüllung mitgebrachter Becher möglich; Verkauf von Mehrwegbechern. Hat Pfandbecher für einen Pfandpreis von 1 Euro von reCup.\n\nhttp://www.cafe-frisch.de",
+        "_storage_options": {
+          "color": "Sienna",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        },
+        "_umap_options": {
+          "color": "#236192",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.678447,
+          49.4128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Café Frisch, Kriegstraße 1",
+        "description": "Befüllung mitgebrachter Becher möglich; Verkauf von Mehrwegbechern\n\nhttp://www.cafe-frisch.de",
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png",
+          "color": "Sienna"
+        },
+        "_umap_options": {
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png",
+          "color": "#e87722"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.683299,
+          49.428465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "#236192"
+        },
+        "name": "Café Keplers Alte PH, Keplerstraße 87",
+        "description": "Befüllung mitgebrachter Becher möglich. Hat Pfandbecher für einen Pfandpreis von 1 Euro von reCup.\n\nhttps://www.studentenwerk.uni-heidelberg.de/de/node/366"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.684349,
+          49.420235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Café Leitstelle, Emil-Maier-Straße 16",
+        "description": "Befüllung mitgebrachter Becher möglich.\n\nhttp://www.dezernat16.de/veranstaltungen/leitstelle/\nhttps://www.facebook.com/leitstelle16",
+        "_umap_options": {
+          "color": "#e87722"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.672445,
+          49.406991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Café Mildner's, Bergheimer Straße 81a",
+        "description": "Befüllung mitgebrachter Becher möglich; 0,50 € Rabatt; hat Pfandbecher für einen Pfandpreis von 1 Euro von reCup.\n\nhttp://www.mildners.com/",
+        "_umap_options": {
+          "color": "#236192"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.684778,
+          49.407724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Befüllung mitgebrachter Becher möglich; 0,20 Euro Rabatt; Verkauf von Mehrwegbechern.\n\nhttp://moro-cafe.de/",
+        "name": "Café Moro, Hauptstraße 160",
+        "_storage_options": {
+          "color": "#bbe2d9",
+          "iconUrl": "/uploads/pictogram/cafe-24.png"
+        },
+        "_umap_options": {
+          "color": "#e87722",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.70814,
+          49.411706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "#e87722"
+        },
+        "description": "Befüllung mitgebrachter Becher und Glasflaschen möglich. Rabatt nach eigenem Ermessen. Die Bezahlung erfolgt auf Spendenbasis.\n\nhttps://schlierbachlebt.de/cafe/",
+        "name": "Café Patchwork, Schlierbacher Landstr. 130"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.74346,
+          49.415584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "#236192"
+        },
+        "description": "Befüllung mitgebrachter Becher möglich. Hat Pfandbecher für einen Pfandpreis von 1 Euro von reCup.\n\nhttps://www.studentenwerk.uni-heidelberg.de/de/node/369",
+        "name": "Café PUR (Campus Bergheim), Bergheimerstr. 58"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.684263,
+          49.40854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Befüllung mitgebrachter Becher möglich.\n\nhttps://www.facebook.com/cafe.romantic.heidelberg/",
+        "name": "Café Romantic, Hauptstraße 165",
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/cafe-24.png",
+          "color": "#bbe2d9"
+        },
+        "_umap_options": {
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png",
+          "color": "#e87722"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.707792,
+          49.411821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Café Rossi, Rohrbacher Straße 4",
+        "description": "Befüllung mitgebrachter Becher möglich",
+        "_storage_options": {
+          "color": "Sienna",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        },
+        "_umap_options": {
+          "color": "#e87722",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.692149,
+          49.408481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Café Schafheutle, Hauptstraße 94",
+        "description": "Befüllung mitgebrachter Becher möglich; 10%Rabatt; \n",
+        "_storage_options": {
+          "color": "Sienna",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        },
+        "_umap_options": {
+          "color": "#e87722",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.702513,
+          49.411152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Befüllung mitgebrachter Becher möglich; Verkauf von Mehrwegbechern\n\nhttps://m.facebook.com/pg/Stokleys-Coffee-Shop-1755678481330436/",
+        "name": "Café Stokley's, Plöck 91",
+        "_umap_options": {
+          "color": "#e87722"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.702792,
+          49.409542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cafe Tiefburg, Steubenstraße 78",
+        "description": "Befüllung mitgebrachter Becher möglich; hat Pfandbecher für einen Pfandpreis von 1 Euro von reCup. 20 Cent Rabatt auf das Getränk bei mitgebrachtem Becher.\n\nhttp://www.cafe-tiefburg.de",
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png",
+          "iconClass": "Default",
+          "color": "Sienna"
+        },
+        "_umap_options": {
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png",
+          "iconClass": "Default",
+          "color": "#236192"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.686533,
+          49.427555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cantina im Olympiastützpunkt, Im Neuenheimer Feld 710",
+        "description": "Befüllung mitgebrachter Becher möglich; Hat Pfandbecher für einen Pfandpreis von 1 Euro von reCup.\n\nhttps://de-de.facebook.com/cantina.im.osp/\nhttps://gvo-cateringkultur.de/locations/cantina/",
+        "_umap_options": {
+          "color": "#236192",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.660011,
+          49.423432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Casa del Caffé, Steingasse 8",
+        "description": "Befüllung mitgebrachter Becher möglich.\n\nhttp://www.casa-del-caffe.de/",
+        "_umap_options": {
+          "color": "#e87722"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.709519,
+          49.412844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Catering im DKFZ, Im Neuenheimer Feld 280",
+        "description": "Befüllung mitgebrachter Becher möglich; ",
+        "_storage_options": {
+          "color": "Sienna",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        },
+        "_umap_options": {
+          "color": "#e87722",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.671953,
+          49.414301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "#236192"
+        },
+        "name": "Cenneto Weinbar, Da-Vinci-Straße 18",
+        "description": "Befüllung mitgebrachter Becher möglich. Hat Pfandbecher für einen Pfandpreis von 1 Euro von reCup."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.667623,
+          49.403898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "#e87722"
+        },
+        "name": "Chocolaterie St. Anna No.1, St.-Anna-Gasse 1",
+        "description": "Befüllung mitgebrachter Becher möglich. \nhttps://www.chocolaterie-st-anna.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.694126,
+          49.409611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chocolaterie yilliy, Haspelgasse 7",
+        "description": "Befüllung mitgebrachter Becher möglich; 0,20 Euro Rabatt; Verkauf von Mehrwegbechern\n\nhttps://chocolaterie-heidelberg.de",
+        "_umap_options": {
+          "color": "#e87722"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.709278,
+          49.412568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Befüllung mitgebrachter Becher möglich; 0,20 Euro Rabatt;  Hat Pfandbecher für einen Pfandpreis von 1 Euro von reCup.\n\nhttp://www.regie-heidelberg.de/",
+        "name": "Cocktailcafé Regie, Theaterstraße 2",
+        "_storage_options": {
+          "color": "#bbe2d9",
+          "iconUrl": "/uploads/pictogram/cafe-24.png"
+        },
+        "_umap_options": {
+          "color": "#236192",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.703699,
+          49.411033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coffee In, Plöck 59",
+        "description": "Befüllung mitgebrachter Becher möglich; Hat Pfandbecher für einen Pfandpreis von 1 Euro von reCup. Verkauf von Mehrwegbechern\n\nhttp://www.coffee-in-heidelberg.de/",
+        "_storage_options": {
+          "color": "#bbe2d9",
+          "iconUrl": "/uploads/pictogram/cafe-24.png"
+        },
+        "_umap_options": {
+          "color": "#236192",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.698908,
+          49.409259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coffeenerd, Rohrbacher Str. 9",
+        "description": "Befüllung mitgebrachter Becher möglich; Verkauf von Mehrwegbechern\n\nhttp://www.coffeenerd.de/",
+        "_umap_options": {
+          "color": "#e87722"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.693034,
+          49.407532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "#236192"
+        },
+        "name": "CONTIGO Fairtrade Shop, Hauptstraße 102",
+        "description": "Befüllung mitgebrachter Becher möglich. Hat Pfandbecher für einen Pfandpreis von 1 Euro von reCup.\n\nhttps://contigo.de/contigo-fairtrade-shops/heidelberg/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.703211,
+          49.411213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "color": "#bbe2d9",
+          "iconUrl": "/uploads/pictogram/cafe-24.png"
+        },
+        "name": "Cube, Mensa auf dem SRH Campus, Bonhoeferstr. 14",
+        "description": "Hat Pfandbecher für einen Pfandpreis von 1 Euro von reCup.\n\nhttps://www.srh-cube.de/",
+        "_umap_options": {
+          "color": "#236192",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.654625,
+          49.413228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "das espressoBike,   Königstuhl 10/1 und Uferstraße am Wochenende",
+        "description": "Befüllung mitgebrachter Becher möglich; Samstag und Sonntags am Skatepark in der Uferstraße. Hat Pfandbecher für einen Pfandpreis von 1 Euro von reCup.\n\n\nhttp://www.dasespressobike.de/\n\n",
+        "_storage_options": {
+          "color": "#bbe2d9",
+          "iconUrl": "/uploads/pictogram/cafe-24.png"
+        },
+        "_umap_options": {
+          "color": "#236192",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.677297,
+          49.411485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dean and David, Poststraße 4",
+        "description": "Befüllung mitgebrachter Becher möglich;\n\nhttps://deananddavid.de/\n",
+        "_storage_options": {
+          "color": "Sienna",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        },
+        "_umap_options": {
+          "color": "#e87722",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.691793,
+          49.408297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "#236192"
+        },
+        "description": "Befüllung mitgebrachter Becher möglich. Hat RECUP Pfandbecher für einen Pfandpreis von 1 Euro. Hat für Speisen REBOWL-Pfandbehälter zum Mitnehmen.\n\nhttps://www.biomarkt.de/heidelberg-bahnhofstr-33/marktseite",
+        "name": "denn's Biomarkt, Bahnhofstraße 33"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.688309,
+          49.4055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "#236192"
+        },
+        "name": "denn's Biomarkt, Fritz-Frey-Str. 15",
+        "description": "Befüllung mitgebrachter Becher möglich; Hat Pfandbecher für einen Pfandpreis von 1 Euro von reCup. Hat für Speisen REBOWL-Pfandbehälter zum Mitnehmen.\n\nhttps://www.biomarkt.de/heidelberg-fritz-frey-str-15/marktseite"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.680491,
+          49.436047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Die Beckerei, Schwetzinger Str. 82a",
+        "description": "Befüllung mitgebrachter Becher möglich. Hat Pfandbecher für einen Pfandpreis von 1 Euro von reCup.\n\nhttps://www.diebeckerei-hd.de/",
+        "_storage_options": {
+          "color": "#bbe2d9",
+          "iconUrl": "/uploads/pictogram/cafe-24.png"
+        },
+        "_umap_options": {
+          "color": "#236192",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.671521,
+          49.381387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "#236192"
+        },
+        "description": "Befüllung mitgebrachter Becher möglich; 0,20 Euro Rabatt;  Hat Pfandbecher für einen Pfandpreis von 1 Euro von reCup. Hat für Speisen REBOWL-Pfandbehälter zum Mitnehmen.\n\nhttps://www.studentenwerk.uni-heidelberg.de/de/node/362",
+        "name": "eat & meet am Uniplatz, Grabengasse 14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.705782,
+          49.410676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "effata Weltladen, Turnerstraße 36",
+        "description": "Befüllung mitgebrachter Becher möglich; 0,10 Euro Rabatt; Verkauf von Mehrwegbechern; Teilnahme an \"Climate fair to go\"\n\nhttp://www.effata.de\n",
+        "_umap_options": {
+          "color": "#e87722",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.688823,
+          49.388306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "#236192"
+        },
+        "name": "Eiscafé ok kool, Wallstraße 3",
+        "description": "Befüllung mitgebrachter Becher möglich. Hat Pfandbecher für einen Pfandpreis von 1 Euro von reCup.\n\nhttps://www.instagram.com/_ok_kool_/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.648611,
+          49.423899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eiscafe PURO, Hauptstraße 149",
+        "description": "Befüllung mitgebrachter Becher möglich.\n\nhttp://www.puroeis.de/",
+        "_umap_options": {
+          "color": "#e87722"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.706906,
+          49.411776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Befüllung mitgebrachter Becher möglich.\n\nhttp://www.emma24.de/",
+        "name": "emma Café-Bar,  Hauptstraße 129",
+        "_storage_options": {
+          "color": "#bbe2d9",
+          "iconUrl": "/uploads/pictogram/cafe-24.png"
+        },
+        "_umap_options": {
+          "color": "#e87722",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.705254,
+          49.411647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "#236192"
+        },
+        "name": "Espresso Perfetto, Poststr. 10",
+        "description": "Befüllung mitgebrachter Becher möglich; Verkauf von Mehrwegbechern; Hat Pfandbecher für einen Pfandpreis von 1 Euro von reCup.\n\nhttps://espressoperfetto.de/Espresso-Perfetto-Filialen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.691177,
+          49.408204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "#236192"
+        },
+        "name": "Esso Station, Karlsruher Straße 61",
+        "description": "Befüllung mitgebrachter Becher möglich. Hat Pfandbecher für einen Pfandpreis von 1 Euro von reCup."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.68961,
+          49.380981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fair & Quer, Adlerstraße 1",
+        "description": "Befüllung mitgebrachter Becher möglich; Verkauf von Mehrwegbechern; Fair & Quer eigenes Pfandsystem.\n\nhttp://www.fairundquer.de",
+        "_storage_options": {
+          "color": "#34671b",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        },
+        "_umap_options": {
+          "color": "#b7bf10",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6443,
+          49.424935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Befüllung mitgebrachter Becher möglich; Verkauf von Mehrwegbechern; Fair & Quer eigenes Pfandsystem.\n\nhttp://www.fairundquer.de",
+        "name": "Fair & Quer, Steubenstraße 52",
+        "_storage_options": {
+          "color": "#34671b"
+        },
+        "_umap_options": {
+          "color": "#b7bf10",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.687932,
+          49.425086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Florian Steiner, Obere Neckarstraße 18",
+        "_storage_options": {
+          "color": "#34671b"
+        },
+        "description": "Befüllt mitgebrachte Becher. Hat ein eigenes Pfandsystem mit Porzellanbechern.\n\nhttps://www.floriansteiner.com/",
+        "_umap_options": {
+          "color": "#b7bf10",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.712126,
+          49.413298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fody's Zoo-Café, Tiergartenstraße 3",
+        "description": "Befüllung mitgebrachter Becher möglich; Hat Pfandbecher für einen Pfandpreis von 1 Euro von reCup.\n\nhttps://www.fodys.com/",
+        "_storage_options": {
+          "color": "#bbe2d9",
+          "iconUrl": "/uploads/pictogram/cafe-24.png"
+        },
+        "_umap_options": {
+          "color": "#236192",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.663299,
+          49.414645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "#e87722"
+        },
+        "name": "Foodstore Heidelberg, Haupstrasse 146",
+        "description": "Befüllung mitgebrachter Becher möglich."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.707228,
+          49.41165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "color": "#bbe2d9",
+          "iconUrl": "/uploads/pictogram/cafe-24.png"
+        },
+        "name": "friedrich Café & Bar, Friedrich-Ebert-Anlage 1",
+        "description": "Befüllt mitgebrachte Becher. Hat Pfandbecher für einen Pfandpreis von 1 Euro von reCup.\n\nhttps://www.facebook.com/friedrichheidelberg/",
+        "_umap_options": {
+          "color": "#236192",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.69482,
+          49.407787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Befüllung mitgebrachter Becher möglich",
+        "name": "Grimminger GmbH, Bismarckplatz",
+        "_storage_options": {
+          "color": "Sienna",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        },
+        "_umap_options": {
+          "color": "#e87722",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.692782,
+          49.40891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Befüllung mitgebrachter Becher möglich",
+        "name": "Grimminger GmbH, Boxbergring 16-12",
+        "_storage_options": {
+          "color": "Sienna",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        },
+        "_umap_options": {
+          "color": "#e87722",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.702956,
+          49.374704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Befüllung mitgebrachter Becher möglich",
+        "name": "Grimminger GmbH, Brückenstraße 16",
+        "_storage_options": {
+          "color": "Sienna",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        },
+        "_umap_options": {
+          "color": "#e87722",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.692388,
+          49.414857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Befüllung mitgebrachter Becher möglich\n",
+        "name": "Grimminger GmbH, Mühlingstraße 10",
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png",
+          "color": "Sienna"
+        },
+        "_umap_options": {
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png",
+          "color": "#e87722"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.681274,
+          49.4298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Befüllung mitgebrachter Becher möglich\n",
+        "name": "Grimminger GmbH, Rathausstraße 45",
+        "_storage_options": {
+          "color": "Sienna",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        },
+        "_umap_options": {
+          "color": "#e87722",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.692056,
+          49.378976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grimminger GmbH, Rohrbacher Straße 130 ",
+        "description": "Befüllung mitgebrachter Becher möglich",
+        "_storage_options": {
+          "color": "Sienna",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        },
+        "_umap_options": {
+          "color": "#e87722",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.68974,
+          49.393299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "#e87722"
+        },
+        "name": "Heidelberg Coffee, Alte Glockengießerei 2 ",
+        "description": "Befüllung mitgebrachter Becher möglich.\n\nhttps://heidelberg.coffee\nHeidelberg Coffee / FotoAgenten Concept Store Café, Angelika Löffler & Team"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.686119,
+          49.407106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kaffeezimmer Weststadt, Bahnhofstr. 34",
+        "description": "Befüllung mitgebrachter Becher möglich, Becher aus Bambus im Verkauf.\n\nhttps://www.kaffeezimmer.de/\n",
+        "_umap_options": {
+          "color": "#e87722"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.687557,
+          49.405643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kamps Backstube, Hauptstraße 109",
+        "description": "Befüllung mitgebrachter Becher möglich; 0,10 Euro Rabatt; Verkauf von Mehrwegbechern",
+        "_storage_options": {
+          "color": "Sienna",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        },
+        "_umap_options": {
+          "color": "#e87722",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.703645,
+          49.411444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Befüllung mitgebrachter Becher möglich; 0,10 Euro Rabatt; Verkauf von Mehrwegbechern",
+        "name": "Kamps, Hauptstraße 35",
+        "_storage_options": {
+          "color": "Sienna",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        },
+        "_umap_options": {
+          "color": "#e87722",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.696398,
+          49.410317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kiosk - S-Bahnhof West-/Südstadt, Rohrbacher Str. 94",
+        "description": "Befüllung mitgebrachter Becher möglich\n",
+        "_umap_options": {
+          "color": "#e87722",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.689129,
+          49.39855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "#b7bf10"
+        },
+        "name": "Kiosque Marseille, Brunnengasse 12",
+        "description": "Befüllt mitgebrachte Behälter. Eigenes Pfandsystem mit BPA-freien und bruchfesten Tritangläsern. Pfandbetrag: 5 Euro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.697358,
+          49.411248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "#e87722"
+        },
+        "description": "Befüllung mitgebrachter Becher möglich",
+        "name": "Kostbar, Willy-Brandt-Platz 5, im HBF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.676018,
+          49.404041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ku17, Uferstraße 17",
+        "description": "Befüllung mitgebrachter Becher möglich.\n\nhttps://www.ku17.de/",
+        "_umap_options": {
+          "color": "#e87722"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.685685,
+          49.412547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Befüllung mitgebrachter Becher möglich; 0,10 Euro Rabatt; \n\nhttp://www.lecrobag.de",
+        "name": "Le Crobag petite france, Willy-Brandt-Platz 5, HBF",
+        "_umap_options": {
+          "color": "#e87722",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.67575,
+          49.404181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "#236192"
+        },
+        "name": "LUCULLI Delicious Delights, Noetherstr. 3",
+        "description": "Befüllung mitgebrachter Becher möglich. Hat Pfandbecher für einen Pfandpreis von 1 Euro von reCup."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.666979,
+          49.402348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "#236192"
+        },
+        "name": "Macaronnerie Heidelberg, Haupstraße 122",
+        "description": "Befüllung mitgebrachter Becher möglich; Hat Pfandbecher für einen Pfandpreis von 1 Euro von reCup.\n\nhttp://www.macarons-heidelberg.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.705375,
+          49.41148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Befüllung mitgebrachter Becher möglich; Hat Pfandbecher für einen Pfandpreis von 1 Euro von reCup.\n\nhttp://www.macarons-heidelberg.de/",
+        "name": "Macaronnerie, Sofienstraße 23",
+        "_storage_options": {
+          "color": "#bbe2d9",
+          "iconUrl": "/uploads/pictogram/cafe-24.png"
+        },
+        "_umap_options": {
+          "color": "#236192",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.694118,
+          49.408572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Madame Louise, Brückenstraße 18",
+        "description": "Befüllung mitgebrachter Becher möglich; 0,30 Euro Rabatt;\n\nhttp://www.madamelouise.de\n\n",
+        "_storage_options": {
+          "color": "Sienna",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        },
+        "_umap_options": {
+          "color": "#e87722",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.692387,
+          49.414942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manna, Plöck 49",
+        "description": "Befüllung mitgebrachter Becher möglich.\n\nhttps://www.manna-hd.de/",
+        "_umap_options": {
+          "color": "#e87722"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6971,
+          49.408896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "#e87722"
+        },
+        "name": "Maria´S Die Empanaderia, Heinrich-Fuchs-Str. 25",
+        "description": "Befüllung mitgebrachter Becher möglich.\nTelefon 0179-9062167\nhttps://www.loeffelmeter.de/heidelberg/rohrbach/marias-die-empanaderia/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.684852,
+          49.379777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "#e87722"
+        },
+        "name": "Marstallcafé, Marstallhof 3",
+        "description": "Befüllung mitgebrachter Becher möglich."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.705157,
+          49.412847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Befüllung mitgebrachter Becher möglich; 0,10 Euro Rabatt; Verkauf von Mehrwegbechern; ; Hat Pfandbecher für einen Pfandpreis von 1 Euro von reCup.",
+        "name": "McDonald's, Hebelstrasse 4",
+        "_storage_options": {
+          "color": "Sienna",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        },
+        "_umap_options": {
+          "color": "#236192",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.682075,
+          49.397457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "McDonald's, Im Breitspiel 28",
+        "description": "Befüllung mitgebrachter Becher möglich; 0,10 Euro Rabatt; Verkauf von Mehrwegbechern; hat Pfandbecher für einen Pfandpreis von 1 Euro von reCup.",
+        "_umap_options": {
+          "color": "#236192",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.688249,
+          49.359325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "McDonald's, Rohrbacher Straße 3\t",
+        "description": "Befüllung mitgebrachter Becher möglich; 0,10 Euro Rabatt; Verkauf von Mehrwegbechern; hat Pfandbecher für einen Pfandpreis von 1 Euro von reCup.",
+        "_storage_options": {
+          "color": "Sienna",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        },
+        "_umap_options": {
+          "color": "#236192",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.692728,
+          49.408299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Befüllung mitgebrachter Becher möglich; 0,10 Euro Rabatt; Verkauf von Mehrwegbechern; ; Hat Pfandbecher für einen Pfandpreis von 1 Euro von reCup.",
+        "name": "McDonald's, Willy-Brandt-Platz 4, HBF",
+        "_storage_options": {
+          "color": "Sienna",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        },
+        "_umap_options": {
+          "color": "#236192",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.676699,
+          49.403678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "#236192"
+        },
+        "name": "meiks BRUNCH AND BAR, Landhaus Straße 3",
+        "description": "Befüllung mitgebrachter Becher möglich. Hat RECUP Pfandbecher für einen Pfandpreis von 1 Euro.\n\nhttps://www.meiksbrunchandbar.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.689139,
+          49.405172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "nachbarschaft, Märzgasse 4",
+        "description": "Befüllung mitgebrachter Becher möglich",
+        "_umap_options": {
+          "color": "#e87722"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.699718,
+          49.410338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "color": "#bbe2d9",
+          "iconUrl": "/uploads/pictogram/bar-24.png"
+        },
+        "description": "Befüllung mitgebrachter Becher möglich.\n\nhttps://www.facebook.com/NanaLieblingsBarCafe/",
+        "name": "Nana Lieblingsbar & Café, Kettengasse 9",
+        "_umap_options": {
+          "color": "#e87722",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.708714,
+          49.411256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Befüllung mitgebrachter Becher möglich; 0,20 € Rabatt, hat Pfandbecher für einen Pfandpreis von 1 Euro von reCup.\n\nhttp://nomad-heidelberg.de/\nhttps://www.facebook.com/nomadheidelberg",
+        "name": "Nomad, Lutherstraße 28",
+        "_storage_options": {
+          "color": "#bbe2d9",
+          "iconUrl": "/uploads/pictogram/cafe-24.png"
+        },
+        "_umap_options": {
+          "color": "#236192",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.690432,
+          49.415919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Befüllung mitgebrachter Becher möglich; 0,20 € Rabatt, hat Pfandbecher für einen Pfandpreis von 1 Euro von reCup.\n\nhttp://nomad-heidelberg.de/\nhttps://www.facebook.com/nomadheidelberg",
+        "name": "Nomad, Rohrbacherstr. 49 ",
+        "_storage_options": {
+          "color": "#bbe2d9",
+          "iconUrl": "/uploads/pictogram/cafe-24.png"
+        },
+        "_umap_options": {
+          "color": "#236192",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.692192,
+          49.40349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "NORDSEE, Hauptstraße 20",
+        "description": "Befüllung mitgebrachter Becher mit Heißgetränken möglich; 0,10 Euro Rabatt;\n\nhttps://www.nordsee.com",
+        "_umap_options": {
+          "color": "#e87722"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.695453,
+          49.410045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Befüllung mitgebrachter Becher mit Heißgetränken möglich; 0,10 Euro Rabatt;\n\nhttps://www.nordsee.com",
+        "name": "NORDSEE, Hertzstraße 1 (Kaufland)",
+        "_umap_options": {
+          "color": "#e87722",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.685368,
+          49.367144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Olio Arte Caffe, Haspelgasse 14",
+        "description": "Befüllung von Bechern möglich.\n\nhttps://chocolaterie-heidelberg.de/content/seite/olio-arte-caffe",
+        "_umap_options": {
+          "color": "#e87722"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.708977,
+          49.412617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "#236192"
+        },
+        "name": "Osteria Zafferano, Poststr. 34",
+        "description": "Befüllung mitgebrachter Becher möglich. Hat RECUP Pfandbecher für einen Pfandpreis von 1 Euro. Hat für Speisen REBOWL-Pfandbehälter zum Mitnehmen.\n\nhttps://www.facebook.com/Zafferano-384762238267039"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.689427,
+          49.407858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "P11, Bahnhofstr. 63",
+        "description": "Befüllung mitgebrachter Becher möglich; 0,20 € Rabatt. Hat RECUP Pfandbecher für einen Pfandpreis von 1 Euro.\n\nhttp://www.p11-hd.de/\n",
+        "_storage_options": {
+          "color": "#bbe2d9",
+          "iconUrl": "/uploads/pictogram/cafe-24.png"
+        },
+        "_umap_options": {
+          "color": "#236192",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.684869,
+          49.404889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Befüllung mitgebrachter Becher möglich; 10% Rabatt; \n\nhttp://www.der-kleine-spanier.de\n",
+        "name": "Pasion Espanol, Untere Straße 28",
+        "_umap_options": {
+          "color": "#e87722"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.708467,
+          49.412198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "#236192"
+        },
+        "name": "Persepolis, Zwingerstraße 21",
+        "description": "Befüllung mitgebrachter Becher möglich. Hat RECUP Pfandbecher für einen Pfandpreis von 1 Euro. Hat für Speisen REBOWL-Pfandbehälter zum Mitnehmen.\n\nhttp://www.persepolis-heidelberg.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.711559,
+          49.411336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "#236192"
+        },
+        "description": "Befüllung mitgebrachter Becher möglich; hat Pfandbecher für einen Pfandpreis von 1 Euro von reCup.\n\nhttp://pier4-heidelberg.de/",
+        "name": "Pier 4, Neckarstaden 25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.701301,
+          49.41291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "#e87722"
+        },
+        "description": "Befüllung mitgebrachter Becher möglich; ",
+        "name": "Porto Gusto Kantine, Im Breitspiel 2-4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.68628,
+          49.364922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "#236192"
+        },
+        "description": "Befüllung mitgebrachter Becher möglich. Hat Pfandbecher für einen Pfandpreis von 1 Euro von reCup.\n\nhttps://www.fsmed-hd.de/emsa-verein/",
+        "name": "Promotionskongress c/o EMSA e.V. Im Neuenheimer Feld 306"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.668377,
+          49.41736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "#236192"
+        },
+        "name": "Providenzkirche, Karl-Ludwig-Straße 1",
+        "description": "Befüllung mitgebrachter Becher möglich. Hat Pfandbecher für einen Pfandpreis von 1 Euro von reCup."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.702014,
+          49.410499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Befüllung mitgebrachter Becher möglich; Beim Kauf eines Mehrwegbechers ist der erste Kaffee gratis; Verkauf von Mehrwegbechern; Hat Pfandbecher für einen Pfandpreis von 1 Euro von reCup.\n\nhttps://www.facebook.com/rada.coffee.roesterei/\n\n",
+        "name": "Rada Coffee & Rösterei, Untere Straße 21",
+        "_storage_options": {
+          "color": "#bbe2d9",
+          "iconUrl": "/uploads/pictogram/cafe-24.png"
+        },
+        "_umap_options": {
+          "color": "#236192",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.707663,
+          49.412247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Befüllung mitgebrachter Becher möglich; 0,20 Euro Rabatt;\n\nhttp://www.cottage-hd.de",
+        "name": "Restaurant Cottage, Bergheimer Str. 147",
+        "_storage_options": {
+          "color": "#bbe2d9",
+          "iconUrl": "/uploads/pictogram/cafe-24.png"
+        },
+        "_umap_options": {
+          "color": "#e87722",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.676517,
+          49.407113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "River Cafe, Bergstraße 2",
+        "description": "Befüllung mitgebrachter Becher möglich; 0,30 Euro Rabatt; ",
+        "_storage_options": {
+          "color": "Sienna",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        },
+        "_umap_options": {
+          "color": "#e87722",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.693638,
+          49.413954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "color": "#bbe2d9",
+          "iconClass": "Default",
+          "iconUrl": "/uploads/pictogram/cafe-24.png"
+        },
+        "name": "rorbar, Rathausstraße 54",
+        "description": "Befüllung mitgebrachter Becher möglich. Hat Pfandbecher für einen Pfandpreis von 1 Euro von reCup.\n\nhttps://www.facebook.com/rorbar-213432305910561/",
+        "_umap_options": {
+          "color": "#236192",
+          "iconClass": "Default",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.691258,
+          49.379107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "#236192"
+        },
+        "description": "Befüllung mitgebrachter Becher möglich. Hat RECUP Pfandbecher für einen Pfandpreis von 1 Euro.",
+        "name": "Scheck-In-Center, Galileistraße 4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.668212,
+          49.404393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "#236192"
+        },
+        "description": "Befüllung mitgebrachter Becher möglich. Hat RECUP Pfandbecher für einen Pfandpreis von 1 Euro.\n\nhttps://schwarzer-walfischheidelberg.\nde",
+        "name": "Schwarzer Walfisch, Bahnhofstraße 27"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.689349,
+          49.405678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "#236192"
+        },
+        "description": "Befüllung mitgebrachter Becher möglich; Hat Pfandbecher für einen Pfandpreis von 1 Euro von reCup.",
+        "name": "Shell-Station, Dossenheimer Landstr. 108"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.68267,
+          49.433187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "#236192"
+        },
+        "description": "Befüllung mitgebrachter Becher möglich; hat Pfandbecher für einen Pfandpreis von 1 Euro von reCup.\n",
+        "name": "Shell-Station, Im Breitspiel 26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.687696,
+          49.359619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Befüllung mitgebrachter Becher möglich; hat Pfandbecher für einen Pfandpreis von 1 Euro von reCup.\n",
+        "name": "Shell-Station, Mönchhofstraße 66 ",
+        "_storage_options": {
+          "color": "Sienna",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        },
+        "_umap_options": {
+          "color": "#236192",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.676966,
+          49.417121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Befüllung mitgebrachter Becher möglich; hat Pfandbecher für einen Pfandpreis von 1 Euro von reCup.",
+        "name": "Shell-Station, Rohrbacher Str. 105",
+        "_storage_options": {
+          "color": "Sienna",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        },
+        "_umap_options": {
+          "color": "#236192",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.689833,
+          49.398823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Befüllung mitgebrachter Becher möglich; hat Pfandbecher für einen Pfandpreis von 1 Euro von reCup.\n",
+        "name": "Shell-Station, Vangerowstraße 37 ",
+        "_storage_options": {
+          "color": "Sienna",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        },
+        "_umap_options": {
+          "color": "#236192",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.674485,
+          49.408689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "#e87722"
+        },
+        "description": "Befüllung mitgebrachter Becher möglich; 0,30 Euro Rabatt; Verkauf von Mehrwegbechern.\n\nhttps://www.starbucks.de",
+        "name": "Starbucks Heidelberg, Hauptstraße 9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.694338,
+          49.41002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Starbucks Heidelberg, Hautpstraße 137",
+        "description": "Befüllung mitgebrachter Becher möglich; 0,30 Euro Rabatt; Verkauf von Mehrwegbechern.\n\nhttps://www.starbucks.de",
+        "_umap_options": {
+          "color": "#e87722"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.706268,
+          49.411745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "color": "#bbe2d9",
+          "iconUrl": "/uploads/pictogram/cafe-24.png"
+        },
+        "description": "Befüllung mitgebrachter Becher möglich. Hat Pfandbecher für einen Pfandpreis von 1 Euro von reCup.\n\nhttps://stores.teegschwendner.de/heidelberg/\n",
+        "name": "Tee Gschwendner, Hauptstraße 56",
+        "_umap_options": {
+          "color": "#236192",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.698345,
+          49.410499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Total Tankstelle, Czernyring 1",
+        "description": "Befüllung mitgebrachter Becher möglich; 0,20 Euro Rabatt; Verkauf von Mehrwegbechern",
+        "_storage_options": {
+          "color": "Sienna",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        },
+        "_umap_options": {
+          "color": "#e87722",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.672404,
+          49.40745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "#236192"
+        },
+        "description": "Befüllung mitgebrachter Becher möglich. Hat Pfandbecher für einen Pfandpreis von 1 Euro von reCup.",
+        "name": "TotalEnergies Tankstelle, Grenzhoefer Weg 35"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.63906,
+          49.424249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "#236192"
+        },
+        "name": "TotalEnergies Tankstelle, Ringstr. 12",
+        "description": "Befüllung mitgebrachter Becher möglich. Hat RECUP Pfandbecher für einen Pfandpreis von 1 Euro."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.682449,
+          49.404273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Treff am TÜV, Am Taubenfeld 18",
+        "description": "Befüllung mitgebrachter Becher möglich; ",
+        "_storage_options": {
+          "color": "Sienna",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        },
+        "_umap_options": {
+          "color": "#e87722",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.639398,
+          49.427788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vollkornbäckerei Mahlzahn, Mühltalstraße 2",
+        "description": "Befüllung mitgebrachter Becher möglich; hat Pfandbecher für einen Pfandpreis von 1 Euro von reCup.\n\nhttp://www.mahlzahn.de",
+        "_storage_options": {
+          "color": "#bbe2d9",
+          "iconUrl": "/uploads/pictogram/cafe-24.png"
+        },
+        "_umap_options": {
+          "color": "#236192",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.687718,
+          49.428289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Weltladen Heidelberg,  Heugasse 2",
+        "description": "Befüllung mitgebrachter Becher möglich; 0,10 Euro Rabatt; Verkauf von Mehrwegbechern\n\nhttp://www.weltladen-heidelberg.de\n",
+        "_umap_options": {
+          "color": "#e87722"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.707588,
+          49.411413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Befüllung mitgebrachter Becher möglich. \n\nhttp://www.yolicious.de",
+        "name": "Yolicious Frozen Yogurt, Ziegelgasse 26",
+        "_umap_options": {
+          "color": "#e87722"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.69945,
+          49.41113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Befüllung mitgebrachter Becher möglich; 0,10 Euro Rabatt; Verkauf von Mehrwegbechern.\n\nhttp://www.yormas.de",
+        "name": "YORMA`S, Willy-Brandt-Platz 10, HBF",
+        "_umap_options": {
+          "color": "#e87722",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.676023,
+          49.404404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zekis Unicafé, Grabengasse 2, Uniplatz",
+        "description": "Befüllung mitgebrachter Becher möglich; 0,30 Euro Rabatt.\n\nhttps://www.facebook.com/Zekis-Unicaf%C3%A9-380698435782301/",
+        "_umap_options": {
+          "color": "#e87722"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.705603,
+          49.411322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "color": "#236192"
+        },
+        "description": "Befüllung mitgebrachter Becher möglich. Hat RECUP Pfandbecher für einen Pfandpreis von 1 Euro. Hat für Speisen REBOWL-Pfandbehälter zum Mitnehmen.\n\nhttps://www.studentenwerk.uni-heidelberg.de/de/node/359",
+        "name": "zeughaus-Bar im Marstall, Marstallhof 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.704122,
+          49.412917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Befüllung mitgebrachter Becher möglich. Hat Pfandbecher für einen Pfandpreis von 1 Euro von reCup.\n\nhttps://www.instagram.com/zuckerrohr.hd/\nhttps://www.facebook.com/pages/category/Cafe/ZuckerRohr-459031191170703/",
+        "name": "ZuckerRohr, Rathausstraße 52",
+        "_storage_options": {
+          "color": "#bbe2d9",
+          "iconUrl": "/uploads/pictogram/cafe-24.png"
+        },
+        "_umap_options": {
+          "color": "#236192",
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.691084,
+          49.379151
+        ]
+      }
+    }
+  ]
+}

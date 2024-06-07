@@ -1,0 +1,5102 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82655",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.103700509081893,
+          53.53977593829961
+        ]
+      },
+      "properties": {
+        "name": "McCafé",
+        "adresse": "Möllner Landstraße 7a",
+        "ort": "22111 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82656",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.002444839166863,
+          53.55362240516908
+        ]
+      },
+      "properties": {
+        "name": "Campus Suite Brandsende",
+        "adresse": "Brandsende 2-4",
+        "ort": "20095 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82657",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.029839162123938,
+          53.57247124245813
+        ]
+      },
+      "properties": {
+        "name": "Tchibo Filiale mit Kaffee Bar",
+        "adresse": "Hamburger Straße 25",
+        "ort": "22083 Hamburg",
+        "bemerkung": "EKZ HAMBURGER MEILE, EG"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82658",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.00047201811691,
+          53.594312992606625
+        ]
+      },
+      "properties": {
+        "name": "Tchibo Filiale mit Kaffee Bar",
+        "adresse": "Winterhuder Marktplatz 7",
+        "ort": "22299 Hamburg",
+        "bemerkung": "FORUM WINTERHUDE"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82659",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.209175884702438,
+          53.488023144447205
+        ]
+      },
+      "properties": {
+        "name": "Tchibo Filiale mit Kaffee Bar",
+        "adresse": "Bergedorfer Straße 105",
+        "ort": "21029 Hamburg",
+        "bemerkung": "EKZ CITY CENTER BERGEDORF, 1. OG"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82660",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.075114323008076,
+          53.61218765268293
+        ]
+      },
+      "properties": {
+        "name": "Tchibo Filiale mit Kaffee Bar",
+        "adresse": "Bramfelder Chaussee 230",
+        "ort": "22177 Hamburg",
+        "bemerkung": "EKZ BRAMFELD, EG"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82661",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.06475513432095,
+          53.57295155281862
+        ]
+      },
+      "properties": {
+        "name": "Tchibo Filiale mit Kaffee Bar",
+        "adresse": "Quaree 8",
+        "ort": "22041 Hamburg",
+        "bemerkung": "EKZ WANDSBEK QUARREE, EG"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82662",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.091157718901735,
+          53.65392018364301
+        ]
+      },
+      "properties": {
+        "name": "Tchibo Filiale mit Kaffee Bar",
+        "adresse": "Heegbarg 31",
+        "ort": "22391 Hamburg",
+        "bemerkung": "ALSTERTAL EINKAUFSZENTRUM, UG"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82663",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.950276695667531,
+          53.45943540500494
+        ]
+      },
+      "properties": {
+        "name": "Campus Suite Asklepios Klinik Harburg",
+        "adresse": "Eissendorfer Pferdeweg 52",
+        "ort": "21075 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82664",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.969782974860676,
+          53.46254342226843
+        ]
+      },
+      "properties": {
+        "name": "Campus Suite NIT TU Harburg",
+        "adresse": "Kasernenstraße 12",
+        "ort": "21073 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82665",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.988074307356392,
+          53.567512467411795
+        ]
+      },
+      "properties": {
+        "name": "Campus Suite Rotherbaum",
+        "adresse": "Rothenbaumchaussee 47",
+        "ort": "20148 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82666",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.994900690436014,
+          53.548750892760815
+        ]
+      },
+      "properties": {
+        "name": "Campus Suite Domstraße",
+        "adresse": "Domstraße 18",
+        "ort": "20095 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82667",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.004687913749862,
+          53.54998533161007
+        ]
+      },
+      "properties": {
+        "name": "Campus Suite Steinstraße",
+        "adresse": "Steinstraße 5-7",
+        "ort": "20095 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82668",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.986175781608623,
+          53.54141730496938
+        ]
+      },
+      "properties": {
+        "name": "Kaisersuite",
+        "adresse": "Am Kaiserkai 60-62",
+        "ort": "20457 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82669",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.993190381993935,
+          53.54192798609048
+        ]
+      },
+      "properties": {
+        "name": "Campus Suite Großer Graßbrook",
+        "adresse": "Großer Graßbrook 10",
+        "ort": "20457 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82670",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.976525650760177,
+          53.59702178529425
+        ]
+      },
+      "properties": {
+        "name": "Campus Suite Zeughaus",
+        "adresse": "Christoph-Probst-Weg 3-4",
+        "ort": "20251 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82671",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.98624777037845,
+          53.552258783142015
+        ]
+      },
+      "properties": {
+        "name": "Campus Suite Große Bleichen",
+        "adresse": "Grosse Bleichen 68",
+        "ort": "20354 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82672",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.989149973479023,
+          53.55767926178138
+        ]
+      },
+      "properties": {
+        "name": "Campus Suite Stephansplatz",
+        "adresse": "Stephansplatz 2-8",
+        "ort": "20354 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82673",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.988620765809356,
+          53.59210413230284
+        ]
+      },
+      "properties": {
+        "name": "Campus Suite Eppendorfer Landstraße",
+        "adresse": "Eppendorfer Landstraße 102",
+        "ort": "20249 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82674",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.986725247363278,
+          53.55578301984787
+        ]
+      },
+      "properties": {
+        "name": "Campus Suite Valentinskamp",
+        "adresse": "Valentinskamp 91",
+        "ort": "20354 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82675",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.214355700075354,
+          53.48693865435716
+        ]
+      },
+      "properties": {
+        "name": "BackWerk",
+        "adresse": "Sachsentor 48",
+        "ort": "21029 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82676",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.017861999188058,
+          53.64032502339976
+        ]
+      },
+      "properties": {
+        "name": "Bäckerei Vollstädt GmbH",
+        "adresse": "Flughafenstraße 71",
+        "ort": "22415 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82677",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.043118904013177,
+          53.60404753774656
+        ]
+      },
+      "properties": {
+        "name": "Bäckerei Vollstädt GmbH",
+        "adresse": "Elligersweg 14",
+        "ort": "22307 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82678",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.05426130571955,
+          53.63345312586565
+        ]
+      },
+      "properties": {
+        "name": "Bäckerei Vollstädt GmbH",
+        "adresse": "Stübeheide 157",
+        "ort": "22337 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82679",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.023881398056702,
+          53.62840358802634
+        ]
+      },
+      "properties": {
+        "name": "Tchibo Filiale mit Kaffee Bar",
+        "adresse": "Erdkampsweg 35",
+        "ort": "22335 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82680",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.062604415897372,
+          53.57110824234426
+        ]
+      },
+      "properties": {
+        "name": "Tchibo Filiale mit Kaffee Bar",
+        "adresse": "Wandsbeker Marktstraße 27",
+        "ort": "22041 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82681",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.118756070290345,
+          53.60552183672328
+        ]
+      },
+      "properties": {
+        "name": "Tchibo Filiale mit Kaffee Bar",
+        "adresse": "Berner Heerweg 175",
+        "ort": "22159 Hamburg",
+        "bemerkung": "EINKAUFS-TREFFPUNKT-FARMSEN, EG"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82682",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.044498491666095,
+          53.59373388292132
+        ]
+      },
+      "properties": {
+        "name": "Tchibo Filiale mit Kaffee Bar",
+        "adresse": "Fuhlsbuettler Straße 182",
+        "ort": "22305 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82683",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.011350110916934,
+          53.55728406934917
+        ]
+      },
+      "properties": {
+        "name": "Tchibo Filiale mit Kaffee Bar",
+        "adresse": "Lange Reihe 60",
+        "ort": "20099 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82684",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.883198568757237,
+          53.55940789244882
+        ]
+      },
+      "properties": {
+        "name": "Tchibo Filiale mit Kaffee Bar",
+        "adresse": "Waitzstraße 21",
+        "ort": "22607 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82685",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.862298521777618,
+          53.5713691627301
+        ]
+      },
+      "properties": {
+        "name": "Tchibo Filiale mit Kaffee Bar",
+        "adresse": "Osdorfer Landstraße 131",
+        "ort": "22609 Hamburg",
+        "bemerkung": "ELBE EINKAUFSZENTRUM, EG"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82686",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.993938387430376,
+          53.552231791393254
+        ]
+      },
+      "properties": {
+        "name": "Campus Suite Jungfernstieg Haspa",
+        "adresse": "Jungfernstieg 4-5",
+        "ort": "20095 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82687",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.989205565249613,
+          53.55427674266577
+        ]
+      },
+      "properties": {
+        "name": "Tchibo Filiale mit Kaffee Bar",
+        "adresse": "Gerhofstraße 1",
+        "ort": "20354 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82688",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.10543774128602,
+          53.53930144701375
+        ]
+      },
+      "properties": {
+        "name": "BackWerk",
+        "adresse": "Möllner Landstraße 14",
+        "ort": "22111 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82689",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.104974256290514,
+          53.538893490556404
+        ]
+      },
+      "properties": {
+        "name": "BackWerk",
+        "adresse": "Billstedter Hauptstraße 59",
+        "ort": "22111 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82690",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.904652860752982,
+          53.60839215510859
+        ]
+      },
+      "properties": {
+        "name": "BackWerk",
+        "adresse": "Eidelstester Platz 11",
+        "ort": "22523 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82691",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.98656045477697,
+          53.456741404894835
+        ]
+      },
+      "properties": {
+        "name": "Tchibo Filiale mit Kaffee Bar",
+        "adresse": "Hannoversche Straße 86",
+        "ort": "21079 Hamburg",
+        "bemerkung": "PHOENIX-CENTER"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82692",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.083171592409743,
+          53.64075097898688
+        ]
+      },
+      "properties": {
+        "name": "Bäckerei Vollstädt GmbH",
+        "adresse": "Rolfinckstraße 21",
+        "ort": "22391 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82693",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.207069038575161,
+          53.489438948046285
+        ]
+      },
+      "properties": {
+        "name": "McCafé",
+        "adresse": "Weidenbaumsweg 14",
+        "ort": "21029 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82694",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.965857725430235,
+          53.563571496952235
+        ]
+      },
+      "properties": {
+        "name": "LE CROBAG Shop Sternschanze",
+        "adresse": "Sternschanze 1",
+        "ort": "20357 Hamburg",
+        "lage_information": "Im Bahnhof Sternschanze (Eingang Süd)\nSternschanze"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82695",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.005900004845149,
+          53.55339851369783
+        ]
+      },
+      "properties": {
+        "name": "LE CROBAG Shop Hamburg Hbf. Südsteg",
+        "adresse": "Glockengießerwall",
+        "ort": "20099 Hamburg",
+        "lage_information": "Im Hauptbahnhof Hamburg (Südsteg)\nGlockengießerwall"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82696",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.001105506183869,
+          53.55136677880212
+        ]
+      },
+      "properties": {
+        "name": "Starbucks am Moenckebergbrunnen",
+        "adresse": "Barkhof 3",
+        "ort": "20095 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82697",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.863658678472115,
+          53.57009299928422
+        ]
+      },
+      "properties": {
+        "name": "Starbucks Elbe EKZ",
+        "adresse": "Julius-Brecht-Straße 6",
+        "ort": "22609 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82698",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.989587016774824,
+          53.560725785851126
+        ]
+      },
+      "properties": {
+        "name": "Starbucks Bahnhof Dammtor",
+        "adresse": "Marseiller Straße",
+        "ort": "20355 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82699",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.993546213664963,
+          53.55132275739397
+        ]
+      },
+      "properties": {
+        "name": "Starbucks Rathausmarkt 5",
+        "adresse": "Rathausmarkt 5",
+        "ort": "20095 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82700",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.091157613008024,
+          53.65392018460808
+        ]
+      },
+      "properties": {
+        "name": "Starbucks Alstertal EKZ",
+        "adresse": "Heegbarg 31",
+        "ort": "22391 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82701",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.995327906092298,
+          53.5518155511234
+        ]
+      },
+      "properties": {
+        "name": "Starbucks Europa Passage",
+        "adresse": "Ballindamm 40",
+        "ort": "20095 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82702",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.991116049911035,
+          53.555064631005614
+        ]
+      },
+      "properties": {
+        "name": "Starbucks Neuer Jungfernstieg 5",
+        "adresse": "Neuer Jungfernstieg 5",
+        "ort": "20354 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82703",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.98811392078037,
+          53.54861668275478
+        ]
+      },
+      "properties": {
+        "name": "Starbucks Roedingsmarkt",
+        "adresse": "Großer Burstah 50",
+        "ort": "20457 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82704",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8142656342562,
+          53.5636193060703
+        ]
+      },
+      "properties": {
+        "name": "Starbucks Blankenesener Bahnhofsplatz",
+        "adresse": "Erik-Blumenfeld-Platz",
+        "ort": "22587 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82705",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.98875916693565,
+          53.554858425488035
+        ]
+      },
+      "properties": {
+        "name": "Starbucks Gänsemarkt",
+        "adresse": "Gänsemarkt 21",
+        "ort": "20354 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82706",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.986225764399281,
+          53.588967075958415
+        ]
+      },
+      "properties": {
+        "name": "Starbucks Eppendorfer Zentrum",
+        "adresse": "Eppendorfer Landstraße",
+        "ort": "20249 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82707",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.018721024577975,
+          53.63413570055551
+        ]
+      },
+      "properties": {
+        "name": "Starbucks Marché Mövenpick Terminal 2 HH Flughafen",
+        "adresse": "Terminal 2",
+        "ort": "22335 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82708",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.006141480171035,
+          53.553396482503054
+        ]
+      },
+      "properties": {
+        "name": "Starbucks SSP-Hamburg Hauptbahnhof",
+        "adresse": "Glockengießerwall 8",
+        "ort": "20095 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82709",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.108570211099666,
+          53.581864659147556
+        ]
+      },
+      "properties": {
+        "name": "McCafé",
+        "adresse": "Ahrensburger Straße 156",
+        "ort": "22045 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82710",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.00566597681367,
+          53.65374581452326
+        ]
+      },
+      "properties": {
+        "name": "McCafé",
+        "adresse": "Langenhorner Chaussee 287",
+        "ort": "22415 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82711",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.046416290057108,
+          53.55216420463366
+        ]
+      },
+      "properties": {
+        "name": "McCafé",
+        "adresse": "Eiffestraße 440",
+        "ort": "20537 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82712",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.961973269936141,
+          53.60212966816388
+        ]
+      },
+      "properties": {
+        "name": "McCafé",
+        "adresse": "Kollaustraße 25",
+        "ort": "22529 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82713",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.846595443324968,
+          53.47368748945596
+        ]
+      },
+      "properties": {
+        "name": "McCafé",
+        "adresse": "Cuxhavener Straße 382",
+        "ort": "21149 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82714",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.875849226445574,
+          53.58784770430688
+        ]
+      },
+      "properties": {
+        "name": "McCafé",
+        "adresse": "Luruper Hauptstraße 97",
+        "ort": "22547 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82715",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.207008005692895,
+          53.480510337623535
+        ]
+      },
+      "properties": {
+        "name": "McCafé",
+        "adresse": "Lehfeld 2",
+        "ort": "21029 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82716",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.08960118202354,
+          53.587355845813306
+        ]
+      },
+      "properties": {
+        "name": "McCafé",
+        "adresse": "Friedrich-Ebert-Damm 101",
+        "ort": "22047 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82717",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.981663358397128,
+          53.4214349729934
+        ]
+      },
+      "properties": {
+        "name": "McCafé",
+        "adresse": "Winsener Straße 231",
+        "ort": "21077 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82718",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.93683423833201,
+          53.57699537027143
+        ]
+      },
+      "properties": {
+        "name": "McCafé",
+        "adresse": "Kieler Straße 193",
+        "ort": "22525 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82719",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.118373111840372,
+          53.607027391207275
+        ]
+      },
+      "properties": {
+        "name": "McCafé",
+        "adresse": "August-Krogmann-Straße 10",
+        "ort": "22159 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82720",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.989841677992095,
+          53.56095047044189
+        ]
+      },
+      "properties": {
+        "name": "McCafé",
+        "adresse": "Theodor-Heuss-Platz 3",
+        "ort": "20354 Hamburg",
+        "lage_information": "Dammtor"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82721",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.190076336554776,
+          53.60830888172689
+        ]
+      },
+      "properties": {
+        "name": "McCafé",
+        "adresse": "Sieker Landstraße 126",
+        "ort": "22143 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82722",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.935639147372521,
+          53.55182826838991
+        ]
+      },
+      "properties": {
+        "name": "McCafé",
+        "adresse": "Paul-Nevermann-Platz 13",
+        "ort": "22765 Hamburg",
+        "lage_information": "Altona Bf"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82723",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.005687222100248,
+          53.553337380156805
+        ]
+      },
+      "properties": {
+        "name": "McCafé",
+        "adresse": "Glockengießer Wall 8",
+        "ort": "20095 Hamburg",
+        "lage_information": "HBF"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82724",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.928227199293499,
+          53.47103087782231
+        ]
+      },
+      "properties": {
+        "name": "McCafé",
+        "adresse": "Stader Straße 256",
+        "ort": "21075 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82725",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.103380096617395,
+          53.54012254851958
+        ]
+      },
+      "properties": {
+        "name": "Billstedt Center",
+        "adresse": "Möllner Landstraße 3",
+        "ort": "22111 Hamburg",
+        "url_bild": "https://www.billstedt-center.de/"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82726",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.862298521777618,
+          53.5713691627301
+        ]
+      },
+      "properties": {
+        "name": "Elbe Einkaufszentrum",
+        "adresse": "Osdorfer Landstraße  131-135",
+        "ort": "22609 Hamburg",
+        "url_bild": "https://www.eez.de/"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82727",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.987588446156344,
+          53.45614017794526
+        ]
+      },
+      "properties": {
+        "name": "Phoenix Center",
+        "adresse": "Hannoversche Straße 86",
+        "ort": "21079 Hamburg",
+        "url_bild": "https://www.phoenix-center-harburg.de/"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82728",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.995327906092298,
+          53.5518155511234
+        ]
+      },
+      "properties": {
+        "name": "Europa Passage",
+        "adresse": "Ballindamm 40",
+        "ort": "20095 Hamburg",
+        "url_bild": "https://www.europa-passage.de/"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82729",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.030334154876282,
+          53.57238212397292
+        ]
+      },
+      "properties": {
+        "name": "Hamburger Meile",
+        "adresse": "Hamburger Straße 27",
+        "ort": "22083 Hamburg",
+        "url_bild": "https://www.hamburger-meile.com/"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82730",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.091157613008024,
+          53.65392018460808
+        ]
+      },
+      "properties": {
+        "name": "Alsterthal Einkaufszentrum",
+        "adresse": "Heegbarg 31",
+        "ort": "22391 Hamburg",
+        "url_bild": "https://www.alstertal-einkaufszentrum.de/"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82731",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.028743106112547,
+          53.54827408960196
+        ]
+      },
+      "properties": {
+        "name": "DAILY You",
+        "adresse": "Heidenkampsweg 51",
+        "ort": "20097 Hamburg",
+        "url_bild": "http://www.daily-catering.de/media/images/org/image_food_stores_heidenkampsweg.jpg",
+        "copyright": "Daily Systemgastronomie GmbH"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82732",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.985688150785688,
+          53.55017795226108
+        ]
+      },
+      "properties": {
+        "name": "DAILY You",
+        "adresse": "Stadthausbrücke 3",
+        "ort": "20355 Hamburg",
+        "url_bild": "http://www.daily-catering.de/media/images/org/image_food_stores3.jpg",
+        "copyright": "Daily Systemgastronomie GmbH"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82733",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.024955479420603,
+          53.54549718210333
+        ]
+      },
+      "properties": {
+        "name": "DAILY You",
+        "adresse": "Hammerbrookstraße 89",
+        "ort": "20097 Hamburg",
+        "url_bild": "http://www.daily-catering.de/media/images/org/image_food_stores1.jpg",
+        "copyright": "Daily Systemgastronomie GmbH"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82734",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.106684160771998,
+          53.541961209345196
+        ]
+      },
+      "properties": {
+        "name": "BackWerk",
+        "adresse": "Billstedter Platz/Reclamstraße 3",
+        "ort": "22111 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82735",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.045980702741193,
+          53.58889924847373
+        ]
+      },
+      "properties": {
+        "name": "BackWerk",
+        "adresse": "Fuhlsbüttler Straße 110",
+        "ort": "22305 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82736",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.003341731357894,
+          53.55023636963216
+        ]
+      },
+      "properties": {
+        "name": "Die Rösterei Coffeum Gmbh",
+        "adresse": "Steinstraße 10",
+        "ort": "20095 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82737",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.010933378586751,
+          53.5520949170403
+        ]
+      },
+      "properties": {
+        "name": "McCafé",
+        "adresse": "Adenauer Allee 78",
+        "ort": "20097 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82738",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.999503756006748,
+          53.55046689383305
+        ]
+      },
+      "properties": {
+        "name": "McCafé",
+        "adresse": "Ida-Ehre-Platz 10",
+        "ort": "20095 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82739",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.03377047292615,
+          53.57441922585336
+        ]
+      },
+      "properties": {
+        "name": "McCafé",
+        "adresse": "Hamburger Straße 47",
+        "ort": "22083 Hamburg",
+        "lage_information": "EKZ"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82740",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.995327906092298,
+          53.5518155511234
+        ]
+      },
+      "properties": {
+        "name": "McCafé",
+        "adresse": "Ballindamm 40",
+        "ort": "20095 Hamburg",
+        "lage_information": "Europapassage"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82741",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.923590008274255,
+          53.5632761073736
+        ]
+      },
+      "properties": {
+        "name": "McCafé",
+        "adresse": "Stresemannstraße 354",
+        "ort": "22761 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82742",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.904424974492134,
+          53.618621728919635
+        ]
+      },
+      "properties": {
+        "name": "McCafé",
+        "adresse": "Hörgensweg 10",
+        "ort": "22523 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82743",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.099385053979894,
+          53.54122527159356
+        ]
+      },
+      "properties": {
+        "name": "McCafé",
+        "adresse": "Billstedter Hauptstraße 25",
+        "ort": "22111 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82744",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.006412787136968,
+          53.631657758449876
+        ]
+      },
+      "properties": {
+        "name": "McCafé",
+        "adresse": "Flughafenstraße 3",
+        "ort": "22335 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82745",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0898003757993,
+          53.50470466553968
+        ]
+      },
+      "properties": {
+        "name": "McCafé",
+        "adresse": "Amandus-Stubbe-Straße 8",
+        "ort": "22113 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82746",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.93230057058949,
+          53.598635043836374
+        ]
+      },
+      "properties": {
+        "name": "Mensa Stellingen",
+        "adresse": "Vogt-Kölln-Straße 30",
+        "ort": "22527 Hamburg",
+        "url_bild": "http://www.studierendenwerk-hamburg.de/images/mensen/Mensa-Stellingen/lightbox_Mensa_Stellingen_tresen.jpg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82747",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.969768563349382,
+          53.46095929964863
+        ]
+      },
+      "properties": {
+        "name": "PizzaBar Harburg",
+        "adresse": "Denickestraße 22",
+        "ort": "21073 Hamburg",
+        "url_bild": "http://www.studierendenwerk-hamburg.de/images/mensen/PizzaBar-Harburg/lightbox_PizzaBar_Harburg_Eingang.jpg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82748",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.019551804174375,
+          53.60456184879462
+        ]
+      },
+      "properties": {
+        "name": "Mensa Überseering",
+        "adresse": "Überseering 35",
+        "ort": "22297 Hamburg",
+        "url_bild": "http://www.studierendenwerk-hamburg.de/images/mensen/Mensa-Ueberseering/lightbox_Mensa_Ueberseering_Gastraum02.jpg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82749",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.058782406938802,
+          53.53555721458649
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Billstraße 188",
+        "ort": "20539 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82750",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.018600726333789,
+          53.58047165073496
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Grillparzerstraße 45",
+        "ort": "22085 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82751",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.047963887252552,
+          53.64227081188895
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Hummelsbüttler Weg 50",
+        "ort": "22339 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82752",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.007919685147174,
+          53.580906302650824
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Poelchaukamp 27",
+        "ort": "22301 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82753",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.038541270549839,
+          53.55885658814263
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Bürgerweide 90",
+        "ort": "20535 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82754",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.022876415113005,
+          53.62966766014001
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Erdkampsweg 46",
+        "ort": "22335 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82755",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.981735272966763,
+          53.58454855359591
+        ]
+      },
+      "properties": {
+        "name": "Brot \u0026 Stulle",
+        "adresse": "Eppendorfer Baum 41",
+        "ort": "20249 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82756",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.987606820062076,
+          53.590478678443105
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Eppendorfer Landstraße 82",
+        "ort": "20249 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82757",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.048129675959428,
+          53.568152177780256
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Wandsbeker Chaussee 177",
+        "ort": "22089 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82758",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0897086651532,
+          53.6536099595788
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Kritenbarg 4",
+        "ort": "22391 Hamburg",
+        "lage_information": "Dat Kornhus - Markthalle"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82759",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.023091669796072,
+          53.55702806933635
+        ]
+      },
+      "properties": {
+        "name": "Café Berliner Tor",
+        "adresse": "Berliner Tor 7",
+        "ort": "20099 Hamburg",
+        "url_bild": "http://www.studierendenwerk-hamburg.de/images/mensen/Cafe-Berliner-Tor/LightBox_BerlinerTor_CafeShop_Tresen.jpg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82760",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.982950046370876,
+          53.559040068430924
+        ]
+      },
+      "properties": {
+        "name": "Café Bucerius Law School",
+        "adresse": "Jungiusstraße 6",
+        "ort": "20355 Hamburg",
+        "url_bild": "http://www.studierendenwerk-hamburg.de/images/mensen/Cafe-BLS/lightbox_Cafe_BLS_Tresen.jpg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82761",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.880606621991497,
+          53.57334655868732
+        ]
+      },
+      "properties": {
+        "name": "Café CFEL",
+        "adresse": "Notkestraße 85",
+        "ort": "22607 Hamburg",
+        "url_bild": "http://www.studierendenwerk-hamburg.de/images/mensen/Cafe-CFEL/cafe_CFEL_bestuhlung.jpg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82762",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.98804848951909,
+          53.56279635006635
+        ]
+      },
+      "properties": {
+        "name": "Café Canela",
+        "adresse": "Edmund-Siemers-Allee 1",
+        "ort": "20146 Hamburg",
+        "url_bild": "http://www.studierendenwerk-hamburg.de/images/mensen/Cafe-Canela/lightbox_Cafe_Canela_aussen_neu.jpg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82763",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.032971166023437,
+          53.56888945028646
+        ]
+      },
+      "properties": {
+        "name": "Café Finkenau",
+        "adresse": "Finkenau 35",
+        "ort": "22081 Hamburg",
+        "url_bild": "http://www.studierendenwerk-hamburg.de/images/mensen/Cafe-Finkenau/lightbox_Cafe_Finkenau_Tresen.jpg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82764",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.20040891799571,
+          53.49414970140195
+        ]
+      },
+      "properties": {
+        "name": "Café Student Affairs",
+        "adresse": "Ulmenliet 20",
+        "ort": "21033 Hamburg",
+        "url_bild": "http://www.studierendenwerk-hamburg.de/images/mensen/Cafe-Student-Affairs/lightbox_Cafe_StudentAffairs_Tresen.jpg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82765",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.98804848951909,
+          53.56279635006635
+        ]
+      },
+      "properties": {
+        "name": "Café dell¿Arte",
+        "adresse": "Edmund-Siemers-Allee 1",
+        "ort": "20146 Hamburg",
+        "url_bild": "http://www.studierendenwerk-hamburg.de/images/mensen/Cafe-dell-Arte/lightbox_Cafe_dellArte_Gastraum.jpg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82766",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.859812362532729,
+          53.55966566131557
+        ]
+      },
+      "properties": {
+        "name": "Café insgrüne Botanischer Garten",
+        "adresse": "Ohnhorststraße 18",
+        "ort": "22609 Hamburg",
+        "url_bild": "http://www.studierendenwerk-hamburg.de/images/mensen/Cafe-ins-gruene/lightbox_Cafe_insgruene_BotGarten_gastraum01.jpg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82767",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.97053737480277,
+          53.45960666877099
+        ]
+      },
+      "properties": {
+        "name": "Café insgrüne Harburg",
+        "adresse": "Eißendorfer Straße 38",
+        "ort": "21073 Hamburg",
+        "url_bild": "http://www.studierendenwerk-hamburg.de/images/mensen/Cafe-ins-gruene-Harburg/lightbox_cafeinsgrueneHarburg_aussen.jpg",
+        "lage_information": "(Gebäude O/Technikum)"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82768",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.019551804174375,
+          53.60456184879462
+        ]
+      },
+      "properties": {
+        "name": "Café Überseering",
+        "adresse": "Überseering 35",
+        "ort": "22297 Hamburg",
+        "url_bild": "http://www.studierendenwerk-hamburg.de/images/mensen/Cafe-Ueberseering/lightbox_Cafe_Ueberseering_Eingang.jpg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82769",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.021627583758523,
+          53.55643805118313
+        ]
+      },
+      "properties": {
+        "name": "Café-Shop Blueberry",
+        "adresse": "Berliner Tor 5",
+        "ort": "20099 Hamburg",
+        "url_bild": "http://www.studierendenwerk-hamburg.de/images/mensen/Cafe-Shop-Blueberry/LightBox_BerlinerTor_Blueberry_Tresen2.jpg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82770",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.984790580333613,
+          53.56578211496318
+        ]
+      },
+      "properties": {
+        "name": "Café-Shop Campus",
+        "adresse": "Von-Melle-Park 5",
+        "ort": "20146 Hamburg",
+        "url_bild": "http://www.studierendenwerk-hamburg.de/images/mensen/Cafe-Shop-Campus/lightbox_CafeShop_Campus_Tresen.jpg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82771",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.02212558661406,
+          53.556048707247115
+        ]
+      },
+      "properties": {
+        "name": "Café-Shop Zahnrad",
+        "adresse": "Berliner Tor 21",
+        "ort": "20099 Hamburg",
+        "url_bild": "http://www.studierendenwerk-hamburg.de/images/mensen/Cafe-Shop-Zahnrad/LightBox_BerlinerTor_Zahnrad_Eingang.jpg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82772",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.984790580333613,
+          53.56578211496318
+        ]
+      },
+      "properties": {
+        "name": "Campus-Café",
+        "adresse": "Von-Melle-Park 5",
+        "ort": "20146 Hamburg",
+        "url_bild": "http://www.studierendenwerk-hamburg.de/images/mensen/Campus-Cafe/lightbox_Cafe_Campus_Tresen.jpg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82773",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.004320536472964,
+          53.54043337131812
+        ]
+      },
+      "properties": {
+        "name": "Café HCU",
+        "adresse": "Überseeallee 16",
+        "ort": "20457 Hamburg",
+        "url_bild": "http://www.studierendenwerk-hamburg.de/images/mensen/Cafe-HCU/lightbox_Cafe_HCU_Tresen.jpg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82774",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.023091669796072,
+          53.55702806933635
+        ]
+      },
+      "properties": {
+        "name": "Mensa Berliner Tor",
+        "adresse": "Berliner Tor 7",
+        "ort": "20099 Hamburg",
+        "url_bild": "http://www.studierendenwerk-hamburg.de/images/mensen/Mensa-Berliner-Tor/lightbox_Mensa_BerlinerTor_aussen.jpg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82775",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.20040891799571,
+          53.49414970140195
+        ]
+      },
+      "properties": {
+        "name": "Mensa Bergedorf",
+        "adresse": "Ulmenliet 20",
+        "ort": "21033 Hamburg",
+        "url_bild": "http://www.studierendenwerk-hamburg.de/images/mensen/Mensa-Bergedorf/lightbox_Mensa_Bergedorf_gastraum02.jpg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82776",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.022452818173814,
+          53.56523725295393
+        ]
+      },
+      "properties": {
+        "name": "Mensa Armgarstraße",
+        "adresse": "Armgartstraße 24",
+        "ort": "22087 Hamburg",
+        "url_bild": "http://www.studierendenwerk-hamburg.de/images/mensen/Mensa-Armgartstrasse/lightbox_Mensa_armgartstr_aussen.jpg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82777",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.859812362532729,
+          53.55966566131557
+        ]
+      },
+      "properties": {
+        "name": "Mensa Botanischer Garten",
+        "adresse": "Ohnhorststraße 18",
+        "ort": "22609 Hamburg",
+        "url_bild": "http://www.studierendenwerk-hamburg.de/images/mensen/Mensa-Botanischer-Garten/lightbox_Mensa_BotGarten_aussen.jpg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82778",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.982950046370876,
+          53.559040068430924
+        ]
+      },
+      "properties": {
+        "name": "Mensa Bucerius Law School",
+        "adresse": "Jungiusstraße 6",
+        "ort": "20355 Hamburg",
+        "url_bild": "http://www.studierendenwerk-hamburg.de/images/mensen/Mensa-BLS/lightbox_BLS_aussen.jpg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82779",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.12032114546731,
+          53.562494137531715
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Schiffbeker Weg 230a",
+        "ort": "22119 Hamburg",
+        "lage_information": "REWE"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82780",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.986790730029718,
+          53.45649171797337
+        ]
+      },
+      "properties": {
+        "name": "Bueno Crepa",
+        "adresse": "Hannoversche Straße 86",
+        "ort": "21079 Hamburg",
+        "url_bild": "http://www.daten-hamburg.de/umwelt_klima/kehrwiederbecher/bilder/bueno_crepa.jpg",
+        "bemerkung": "Erdgeschoss"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82781",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.003432959542948,
+          53.59298071236941
+        ]
+      },
+      "properties": {
+        "name": "Cafe Le BeauVoisin",
+        "adresse": "Ulmenstraße 2",
+        "ort": "22299 Hamburg",
+        "url_bild": "http://www.daten-hamburg.de/umwelt_klima/kehrwiederbecher/bilder/cafelebeauvoisin.jpg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82782",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.951554944610084,
+          53.5544776418243
+        ]
+      },
+      "properties": {
+        "name": "Bäderland Festland (Bistro)",
+        "adresse": "Holstenstraße 30",
+        "ort": "22767 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82783",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.044591553189413,
+          53.57454556205717
+        ]
+      },
+      "properties": {
+        "name": "Café Elbe",
+        "adresse": "Von-Essen-Straße 58",
+        "ort": "22081 Hamburg",
+        "url_bild": "http://www.daten-hamburg.de/umwelt_klima/kehrwiederbecher/bilder/elbecafe.jpg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82784",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.986914268972582,
+          53.45655386412735
+        ]
+      },
+      "properties": {
+        "name": "Segafredo (Phönixcenter)",
+        "adresse": "Hannoversche Straße 86",
+        "ort": "21079 Hamburg",
+        "url_bild": "http://www.daten-hamburg.de/umwelt_klima/kehrwiederbecher/bilder/segafredo.jpg",
+        "bemerkung": "Obergeschoss"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82785",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.955739460919654,
+          53.600930882981125
+        ]
+      },
+      "properties": {
+        "name": "Kleines Hofcafé",
+        "adresse": "Grelckstraße 19c",
+        "ort": "22529 Hamburg",
+        "url_bild": "http://www.daten-hamburg.de/umwelt_klima/kehrwiederbecher/bilder/kleineshofcafe.jpg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82786",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.986743924393515,
+          53.45657955974174
+        ]
+      },
+      "properties": {
+        "name": "Mr. CLOU",
+        "adresse": "Hannoversche Straße 86",
+        "ort": "21079 Hamburg",
+        "url_bild": "http://www.daten-hamburg.de/umwelt_klima/kehrwiederbecher/bilder/mr_clou.jpg",
+        "bemerkung": "Erdgeschoss"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82787",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.991141121283768,
+          53.541777145673876
+        ]
+      },
+      "properties": {
+        "name": "Meßmer MOMENTUM Tea to go",
+        "adresse": "Kaiserkai 10",
+        "ort": "22457 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82788",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.982386433476515,
+          53.567461677353904
+        ]
+      },
+      "properties": {
+        "name": "Pony-Bar",
+        "adresse": "Allende-Platz 1",
+        "ort": "20146 Hamburg",
+        "url_bild": "http://www.daten-hamburg.de/umwelt_klima/kehrwiederbecher/bilder/ponybar.jpg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82789",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.997567222873629,
+          53.486914070390384
+        ]
+      },
+      "properties": {
+        "name": "Willi Villa",
+        "adresse": "Hauland 81",
+        "ort": "21109 Hamburg",
+        "url_bild": "http://www.daten-hamburg.de/umwelt_klima/kehrwiederbecher/bilder/willivilla.jpg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82790",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.998699957839118,
+          53.51559198957167
+        ]
+      },
+      "properties": {
+        "name": "Zum Anleger",
+        "adresse": "Vogelhüttendeich 123",
+        "ort": "21107 Hamburg",
+        "url_bild": "http://www.daten-hamburg.de/umwelt_klima/kehrwiederbecher/bilder/zumanleger.jpg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82791",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.156479105958583,
+          53.605135164999645
+        ]
+      },
+      "properties": {
+        "name": "Tchibo Filiale mit Kaffee Bar",
+        "adresse": "Schweriner Straße 2b",
+        "ort": "22143 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82792",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.009887661809973,
+          53.498271453479
+        ]
+      },
+      "properties": {
+        "name": "Tchibo Filiale mit Kaffee Bar",
+        "adresse": "Wilhelm-Strauss-Weg 10",
+        "ort": "21109 Hamburg",
+        "bemerkung": "Luna-Center"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82793",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.105019456054015,
+          53.54021770689248
+        ]
+      },
+      "properties": {
+        "name": "Tchibo Filiale mit Kaffee Bar",
+        "adresse": "Billstedter Platz 39",
+        "ort": "22111 Hamburg",
+        "bemerkung": "EKZ BILLSTEDTER PLATZ, EG"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82794",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.932378947127306,
+          53.55236726723496
+        ]
+      },
+      "properties": {
+        "name": "Tchibo Filiale mit Kaffee Bar",
+        "adresse": "Ottenser Haupstraße 10",
+        "ort": "22765 Hamburg",
+        "bemerkung": "MERCADO ALTONA, EG"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82795",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.060427411614763,
+          53.57027099762886
+        ]
+      },
+      "properties": {
+        "name": "BackWerk",
+        "adresse": "Wandsbeker Chaussee",
+        "ort": "22089 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82796",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.988517112033488,
+          53.54786079246546
+        ]
+      },
+      "properties": {
+        "name": "LE CROBAG Hamburg Nikolaikontor",
+        "adresse": "Kleiner Burstah 12",
+        "ort": "20457 Hamburg",
+        "bemerkung": "LE CROBAG Shop Hafencity"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82797",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.999120762887125,
+          53.54247363057438
+        ]
+      },
+      "properties": {
+        "name": "Nachhaltigkeitspavillon",
+        "adresse": "Osakaallee 9",
+        "ort": "20457 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82798",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.002952786133495,
+          53.49441464266743
+        ]
+      },
+      "properties": {
+        "name": "Nordwandhalle",
+        "adresse": "Am Inselpark 20",
+        "ort": "21109 Hamburg",
+        "url_bild": "http://www.daten-hamburg.de/umwelt_klima/kehrwiederbecher/bilder/nordwandhalle.jpg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82799",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.089259951868742,
+          53.63919581367048
+        ]
+      },
+      "properties": {
+        "name": "OIL!-Tankstelle Wellingsbüttel",
+        "adresse": "Rolfinckstraße 48",
+        "ort": "22391 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82800",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.926738458900092,
+          53.551809692659475
+        ]
+      },
+      "properties": {
+        "name": "Laundrette",
+        "adresse": "Ottenser Hauptstraße 56",
+        "ort": "22765 Hamburg",
+        "url_bild": "http://www.daten-hamburg.de/umwelt_klima/kehrwiederbecher/bilder/laundrette.jpg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82801",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.987459827649065,
+          53.59387989889475
+        ]
+      },
+      "properties": {
+        "name": "Bäckerei und Konditorei Wulf",
+        "adresse": "Erikastraße 64",
+        "ort": "20251 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82802",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9853165727181,
+          53.56594767473153
+        ]
+      },
+      "properties": {
+        "name": "Schlüters",
+        "adresse": "Von-Melle-Park 2",
+        "ort": "20146 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82803",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.958969834230821,
+          53.57169422058541
+        ]
+      },
+      "properties": {
+        "name": "Bäckerei und Konditorei Wulf",
+        "adresse": "Eppendorfer Weg 52",
+        "ort": "20259 Hamburg",
+        "url_bild": "http://www.daten-hamburg.de/umwelt_klima/kehrwiederbecher/bilder/wulf_eppendorfer_weg52.jpg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82804",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.979196686498861,
+          53.569124737779276
+        ]
+      },
+      "properties": {
+        "name": "Café Grindel",
+        "adresse": "Grindelallee 117",
+        "ort": "20146 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82805",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.974660237862256,
+          53.568348825910746
+        ]
+      },
+      "properties": {
+        "name": "Café Shop Geomatikum",
+        "adresse": "Bundesstraße 55",
+        "ort": "20146 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82806",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.969772616636572,
+          53.46113716112753
+        ]
+      },
+      "properties": {
+        "name": "Mensa Harburg",
+        "adresse": "Denickestraße 22",
+        "ort": "21074 Hamburg",
+        "url_bild": "http://www.studierendenwerk-hamburg.de/images/mensen/Mensa-Harburg/lightbox_MensaHarburg_aussen_Eingang.jpg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82807",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.987011001370623,
+          53.46578238096147
+        ]
+      },
+      "properties": {
+        "name": "Kleeblatt Food Kiosk",
+        "adresse": "Schellerdamm 1",
+        "ort": "21079 Hamburg",
+        "url_bild": "http://www.daten-hamburg.de/umwelt_klima/kehrwiederbecher/bilder/kleeblatt_food_kiosk.jpg",
+        "copyright": "Zuhal Babalar"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82808",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.995066596372498,
+          53.564012178622086
+        ]
+      },
+      "properties": {
+        "name": "Café Mittelweg",
+        "adresse": "Mittelweg 177",
+        "ort": "20148 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82809",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.927380078125818,
+          53.55304310720234
+        ]
+      },
+      "properties": {
+        "name": "FEEL GOOD FOODS",
+        "adresse": "Nöltingstraße 48",
+        "ort": "22765 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82810",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.984475983392059,
+          53.56726141112497
+        ]
+      },
+      "properties": {
+        "name": "Café Campusblick",
+        "adresse": "Von-Melle-Park 8",
+        "ort": "20146 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82811",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.964576775718543,
+          53.562285447079354
+        ]
+      },
+      "properties": {
+        "name": "Codos",
+        "adresse": "Bartelsstraße 26",
+        "ort": "20537 Hamburg",
+        "url_bild": "http://www.daten-hamburg.de/umwelt_klima/kehrwiederbecher/bilder/Codos_Bartelsstraße_26.jpg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82812",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.928896534998904,
+          53.553963833400296
+        ]
+      },
+      "properties": {
+        "name": "Codos",
+        "adresse": "Bahrenfelder Straße 156",
+        "ort": "22765 Hamburg",
+        "url_bild": "http://www.daten-hamburg.de/umwelt_klima/kehrwiederbecher/bilder/Codos_Bahrenfelder_Straße_156.jpg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82813",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.984790580333613,
+          53.56578211496318
+        ]
+      },
+      "properties": {
+        "name": "Mensa Campus",
+        "adresse": "Von-Melle-Park 5",
+        "ort": "20146 Hamburg",
+        "url_bild": "http://www.studierendenwerk-hamburg.de/images/mensen/Mensa-Campus/lightbox_Mensa_Campus_aussen.jpg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82814",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.032971166023437,
+          53.56888945028646
+        ]
+      },
+      "properties": {
+        "name": "Mensa Finkenau",
+        "adresse": "Finkenau 35",
+        "ort": "22081 Hamburg",
+        "url_bild": "http://www.studierendenwerk-hamburg.de/images/mensen/Mensa-Finkenau/lightbox_Mensa_Finkenau_aussen_neu.jpg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82815",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.015490683358484,
+          53.57448033435273
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Hofweg 70",
+        "ort": "22083 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82816",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.00436716979523,
+          53.55134958953161
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Mönckebergstraße 3",
+        "ort": "20095 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82817",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.995210266570869,
+          53.55093201330824
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Bergstraße 11",
+        "ort": "20095 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82818",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.00436716979523,
+          53.55134958953161
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Mönckebergstraße 3",
+        "ort": "20095 Hamburg",
+        "lage_information": "KH Leben"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82819",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.03079793268771,
+          53.57304007766931
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Hamburger Straße 33",
+        "ort": "22083 Hamburg",
+        "lage_information": "EKZ"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82820",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.95163228235762,
+          53.57723947643368
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Stellinger Weg 1",
+        "ort": "20255 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82821",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.142067240154509,
+          53.5843657579488
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Berliner Platz 1",
+        "ort": "22045 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82822",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.967395466084076,
+          53.579738263289215
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Eppendorfer Weg 166",
+        "ort": "20259 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82823",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.063258405773105,
+          53.578425331263546
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Stormarner Straße 41",
+        "ort": "22844 Norderstedt",
+        "lage_information": "famila  Norderstedt"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82824",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.024397478357178,
+          53.664230631956976
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Tangstedter Landstraße 234",
+        "ort": "22417 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82825",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.81138312434704,
+          53.560422415871564
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Blankenese Bahnhofstraße 19-27",
+        "ort": "22587 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82826",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.05641868641105,
+          53.56416022595572
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Marienthalerstraße 145",
+        "ort": "20585 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82827",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.013884692359145,
+          53.6499171789228
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Langenhorner Markt 6",
+        "ort": "22415 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82828",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.11836279838773,
+          53.605195525983845
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Berner Heerweg 173",
+        "ort": "22147 Hamburg",
+        "lage_information": "Farmsen EKZ"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82829",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.987106433245819,
+          53.58251151113282
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Eppendorfer Baum 8",
+        "ort": "20249 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82830",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.03755893933354,
+          53.64092735505882
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Hummelsbüttler Hauptstraße 62",
+        "ort": "22339 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82831",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.113410359340168,
+          53.65313822290152
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Saseler Markt 13",
+        "ort": "22393 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82832",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.98933154669286,
+          53.57226739301936
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Rothenbaum 78",
+        "ort": "20148 Hamburg",
+        "lage_information": "MultiMedia"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82833",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.057717886068515,
+          53.56481060614546
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Caspar-Voght-Straße 96",
+        "ort": "20535 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82834",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.950453522484729,
+          53.64102417409268
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Nordalbinger Weg 23",
+        "ort": "22455 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82835",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.886668587631373,
+          53.55977979842853
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Waitzstraße 2",
+        "ort": "22607 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82836",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.212322440783385,
+          53.488289620687596
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Sachsentor 16",
+        "ort": "21029 Hamburg",
+        "lage_information": "Bergedorf"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82837",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.18145086523623,
+          53.48908511593769
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Friedrich-Frank-Bogen 55",
+        "ort": "21033 Hamburg",
+        "lage_information": "EKZ Bergedorf West"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82838",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.207780859459014,
+          53.48955329141348
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Weidenbaumsweg 6",
+        "ort": "21029 Hamburg",
+        "lage_information": "Bergedorf"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82839",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.23514105429546,
+          53.51149066230624
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Am Ladenzentrum 1",
+        "ort": "21465 Hamburg",
+        "lage_information": "EKZ Sachsenwald"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82840",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.010182035246526,
+          53.5567306003241
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Lange Reihe 29",
+        "ort": "20099 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82841",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.03711737235776,
+          53.57439987433412
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Hamburger Straße",
+        "ort": "22081 Hamburg",
+        "lage_information": "U-Bahn"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82842",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.051184081742788,
+          53.5574295185037
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Carl-Petersen-Straße 116",
+        "ort": "20535 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82843",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.063197112963888,
+          53.55984242124128
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Sievekingsalle 98",
+        "ort": "20535 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82844",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.988045610494424,
+          53.5676741462141
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Rothenbaumchaussee 49",
+        "ort": "20148 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82845",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.862183898289544,
+          53.57070085791871
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Osdorfer Landstraße  103-105",
+        "ort": "22609 Hamburg",
+        "lage_information": "Elbe Einkaufszentrum"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82846",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.164973292267275,
+          53.64885828995959
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Im alten Dorfe 27",
+        "ort": "22359 Hamburg",
+        "lage_information": "Volksdorf"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82847",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.91588935945999,
+          53.56272173616477
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Paul-Dessau-Straße 6",
+        "ort": "22761 Hamburg",
+        "lage_information": "Gaswerk"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82848",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.138916355839484,
+          53.626731100029126
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Berner Heerweg 372",
+        "ort": "22159 Hamburg",
+        "lage_information": "U-Bahn Berne"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82849",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.96518783357643,
+          53.565556252878096
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Amandastraße 1",
+        "ort": "20357 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82850",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.98207663560297,
+          53.45995401232762
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Lüneburger Straße 39",
+        "ort": "21073 Hamburg",
+        "lage_information": "Harburg Arkaden"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82851",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.932347577377595,
+          53.55231357813426
+        ]
+      },
+      "properties": {
+        "name": "Brot \u0026 Stulle",
+        "adresse": "Ottensener Haupstraße 10",
+        "ort": "22765 Hamburg",
+        "lage_information": "Mercado EKZ"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82852",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.15844390018989,
+          53.605123710916395
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Schweriner Straße 12",
+        "ort": "22143 Hamburg",
+        "lage_information": "EKZ Rahlstedt"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82853",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.770917040484136,
+          53.64596639208739
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Westring 6",
+        "ort": "25421 Pinneberg",
+        "lage_information": "famila Pinneberg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82854",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.974664451387486,
+          53.57995135845221
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Hoheluftchaussee 28",
+        "ort": "20253 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82855",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.212980028125399,
+          53.541319721171995
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Markt 16",
+        "ort": "21509 Glinde"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82856",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.966591207417917,
+          53.54805961128934
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Hopfenstraße 5",
+        "ort": "20359 Hamburg",
+        "lage_information": "Bavaria"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82857",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.99096262912713,
+          53.553944975995826
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Jungfernstieg",
+        "ort": "20354 Hamburg",
+        "lage_information": "U-Bahn"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82858",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.993221355461463,
+          53.54120752979427
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Dalmannkai 1",
+        "ort": "20457 Hamburg",
+        "lage_information": "Hafencity"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82859",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.846398492855368,
+          53.573363724868805
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Rugenbarg 7",
+        "ort": "22549 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82860",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.906070837083341,
+          53.60676424535191
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Elbgaustraße 1",
+        "ort": "22523 Hamburg",
+        "lage_information": "Eidelstedt Center"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82861",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.844637911854853,
+          53.55287985260739
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Nienstedtener Markt 22",
+        "ort": "22609 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82862",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.705148227340272,
+          53.57813829936917
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Bahnhofstraße 31",
+        "ort": "22880 Wedel",
+        "lage_information": "Wedel Bahnhof Str. EKZ"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82863",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.867529122500686,
+          53.35061758005078
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Nordring 6",
+        "ort": "21244 Buchholz",
+        "lage_information": "OBI Buchholz"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82864",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.993024464955742,
+          53.4596963256053
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Schlachthofstraße 3",
+        "ort": "21079 Hamburg",
+        "lage_information": "Bauhaus Harburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82865",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.20855532820953,
+          53.48291650114555
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Curslacker Neuer Deich 20",
+        "ort": "21029 Hamburg",
+        "lage_information": "Bauhaus Bergedorf"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82866",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.064651600302081,
+          53.57175792363843
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Wandsbeker Königstraße 2",
+        "ort": "22041 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82867",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.714005719378656,
+          53.56943920196274
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Hans-Böckler-Platz 2",
+        "ort": "22880 Wedel"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82868",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.268820352169751,
+          53.73066289630379
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Voßkuhlenweg 2",
+        "ort": "22941 Bargteheide",
+        "lage_information": "Bargteheide"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82869",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.954735817533606,
+          53.45697486745948
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Weusthoffstraße 35",
+        "ort": "21075 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82870",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.009577587148373,
+          53.64783409246927
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Krohnstieg 55",
+        "ort": "22415 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82871",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.221868117038436,
+          53.33876972790375
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Max-Planck-Straße 20",
+        "ort": "21423 Winsen/Luhe",
+        "lage_information": "OBI Winsen/Luhe"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82872",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.091157613008024,
+          53.65392018460808
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Heegbarg 31",
+        "ort": "22391 Hamburg",
+        "lage_information": "AEZ EDEKA"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82873",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.066939688958305,
+          53.59836430977633
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Bramfelder Chausssee 84",
+        "ort": "22177 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82874",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.693375554643824,
+          53.58544160747003
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Rolandstraße 23",
+        "ort": "22880 Wedel",
+        "lage_information": "Wedel"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82875",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.16468004046658,
+          53.621759885641474
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Meiendorfer Straße 89",
+        "ort": "22145 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82876",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.791692516999047,
+          53.65316559414631
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Saarlandstraße 65",
+        "ort": "25421 Pinneberg",
+        "lage_information": "Pinneberg EDEKA"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82877",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.078259681311648,
+          53.5632199588877
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Rennbahnstraße 131",
+        "ort": "22111 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82878",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.059040722327284,
+          53.53548436285512
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Billstraße 194",
+        "ort": "20539 Hamburg",
+        "lage_information": "Dat Sparhus"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82879",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.914887797349337,
+          53.56457895955703
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Bahrenfelder Chaussee 39",
+        "ort": "22761 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82880",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.855514815480136,
+          53.58250876202381
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Bornheide 9",
+        "ort": "22549 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82881",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.755172008915745,
+          53.58227372482642
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Am Rissener Bahnhof 18",
+        "ort": "22559 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82882",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.998076599236216,
+          53.54317309212161
+        ]
+      },
+      "properties": {
+        "name": "Lieblingsplatz",
+        "adresse": "Osakaallee 6",
+        "ort": "20457 Hamburg",
+        "lage_information": "Lieblingsplatz"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82883",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.998845985505731,
+          53.5420648856223
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Osakaallee 14",
+        "ort": "20457 Hamburg",
+        "lage_information": "Sumatra-Haus"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82884",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.977263776473809,
+          53.55029203280779
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Neuer Steinweg 20",
+        "ort": "20355 Hamburg",
+        "lage_information": "Wallhöfe"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82885",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.287431180756753,
+          53.48801019345541
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Am Bornbusch",
+        "ort": "21039 Börnsen",
+        "lage_information": "Börnsen"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82886",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.90313085571276,
+          53.73105510532044
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Bahnhofstraße 51",
+        "ort": "25451 Quickborn",
+        "lage_information": "Quickborn"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82887",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.997895088064631,
+          53.550007865633134
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Speersort 10",
+        "ort": "20095 Hamburg",
+        "lage_information": "St. Petri"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82888",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.04063370999474,
+          53.60180521765525
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Fuhlsbüttler Straße 387",
+        "ort": "20307 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82889",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.98579605945499,
+          53.51317594734336
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Am Veringhof 8",
+        "ort": "21107 Hamburg",
+        "lage_information": "EDEKA"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82890",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.981987908360615,
+          53.386139814107175
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Kirchstraße 21",
+        "ort": "21218 Seevetal",
+        "lage_information": "Hittfeld"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82891",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.228863594480877,
+          53.667728186916726
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Hamburger Straße 81",
+        "ort": "22926 Ahrensburg",
+        "lage_information": "Ahrensburg Brückenstraße"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82892",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.874277698678569,
+          53.59159936623839
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Eckhoffplatz 1",
+        "ort": "22547 Hamburg",
+        "lage_information": "Lurup Center"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82893",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.209374378703435,
+          53.497982411141024
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Am Beckerkamp 31",
+        "ort": "21031 Bergedorf",
+        "lage_information": "Rewe"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82894",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.017974726569529,
+          53.586542102140115
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Semperstraße 56",
+        "ort": "22303 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82895",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.986843167088827,
+          53.456646760756755
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Hannoversche Straße 86",
+        "ort": "21079 Hamburg",
+        "lage_information": "Phönix Center Harburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82896",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.963004410775438,
+          53.55228639529804
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Clemens-Schultz-Straße 36",
+        "ort": "20359 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82897",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.966814255483763,
+          53.55683877144188
+        ]
+      },
+      "properties": {
+        "name": "Brot \u0026 Stulle",
+        "adresse": "Neuer Kamp 31",
+        "ort": "20359 Hamburg",
+        "lage_information": "Rindermarkthalle"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82898",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.724309501610433,
+          53.584312903537906
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Rissener Straße 105",
+        "ort": "22880 Wedel",
+        "lage_information": "famila Wedel"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82899",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.997586936073729,
+          53.55215422164879
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Alstertor 13",
+        "ort": "20095 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82900",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.961868606307098,
+          53.83713120665231
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Holstenstraße 16",
+        "ort": "24568 Kaltenkirchen",
+        "lage_information": "Kaltenkirchen"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82901",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.262226760295354,
+          53.65319943845408
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Ahrensfelder Weg 1",
+        "ort": "22927 Großhansdorf",
+        "lage_information": "Großhansdorf"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82902",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.896214569440676,
+          53.37953005298433
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Bremer Straße 51",
+        "ort": "21224 Rosengarten-Nenndorf",
+        "lage_information": "Nenndorf/Rosengarten"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82903",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.937167297666871,
+          53.553760432624614
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Max-Brauer-Allee 59",
+        "ort": "22765 Hamburg",
+        "lage_information": "REWE-Center"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82904",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.105047893365944,
+          53.54154135871389
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Lorenzenweg 3",
+        "ort": "22111 Hamburg",
+        "lage_information": "REWE-Center Billstedt"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82905",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.020846734850604,
+          53.68488825815977
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Segeberger Chaussee 138",
+        "ort": "22851 Norderstedt",
+        "lage_information": "REWE-Markt Norderstedt"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82906",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.93812415260202,
+          53.55179352079026
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Neue Große Bergstraße 7",
+        "ort": "22767 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82907",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.058087024626618,
+          53.5840622501212
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Alter Teichweg 65",
+        "ort": "22049 Hamburg",
+        "lage_information": "Penny"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82908",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.997874088042677,
+          53.68114422351074
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Am Tarpenufer 5",
+        "ort": "22848 Norderstedt"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82909",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.878522755648167,
+          53.32570641768257
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Lindenstraße 3",
+        "ort": "21244 Buchholz",
+        "lage_information": "Buchholz"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82910",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.915380091410658,
+          53.56345607367752
+        ]
+      },
+      "properties": {
+        "name": "ViaCafélier",
+        "adresse": "Paul-Dessau-Straße 4",
+        "ort": "22761 Hamburg",
+        "url_bild": "http://www.daten-hamburg.de/umwelt_klima/kehrwiederbecher/bilder/viacafelier.jpg",
+        "copyright": "ViaCaféier, ALPHINA gGmbH",
+        "bemerkung": "Saisonbetrieb erst ab 15.3. geöffnet"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82911",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.981344094313808,
+          53.56335555469016
+        ]
+      },
+      "properties": {
+        "name": "Restaurant Rosenhof",
+        "adresse": "Tiergartenstraße 10",
+        "ort": "20355 Hamburg",
+        "url_bild": "http://www.daten-hamburg.de/umwelt_klima/kehrwiederbecher/bilder/rosenhof_ecke.jpg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82912",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.918469866677366,
+          53.6321702344658
+        ]
+      },
+      "properties": {
+        "name": "Freizeitzentrum Schnelsen e. V.",
+        "adresse": "Wählingsallee 16",
+        "ort": "22459 Hamburg",
+        "url_bild": "http://www.daten-hamburg.de/umwelt_klima/kehrwiederbecher/bilder/freizeit_schnelsen.jpg",
+        "copyright": "Sacha Kirchberger"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82913",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.988029976383292,
+          53.54379442164591
+        ]
+      },
+      "properties": {
+        "name": "Speicherstadt Kaffeerösterei",
+        "adresse": "Kehrwieder 5",
+        "ort": "20457 Hamburg",
+        "url_bild": "http://www.daten-hamburg.de/umwelt_klima/kehrwiederbecher/bilder/speicherstadt_kaffeeroesterei.jpg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82914",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.008952655132909,
+          53.597310874359046
+        ]
+      },
+      "properties": {
+        "name": "Café Nordstern im Planetarium Hamburg",
+        "adresse": "Linnering 1",
+        "ort": "22299 Hamburg",
+        "url_bild": "http://www.daten-hamburg.de/umwelt_klima/kehrwiederbecher/bilder/nordstern_planetarium.jpg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82915",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.06719606687589,
+          53.57176221745833
+        ]
+      },
+      "properties": {
+        "name": "LE CROBAG Hamburg Wandsbek",
+        "adresse": "Wandsbeker Marktstraße 99",
+        "ort": "22041 Hamburg",
+        "lage_information": "Im U-Bahnhof Wandsbek-Markt\nWandsbeker Marktstraße",
+        "bemerkung": "LE CROBAG Shop Wandsbek"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82916",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.007322727751413,
+          53.55355733025892
+        ]
+      },
+      "properties": {
+        "name": "LE CROBAG Hamburg Hbf. Osthalle",
+        "adresse": "Glockengießerwall",
+        "ort": "20095 Hamburg",
+        "lage_information": "Im Hauptbahnhof Hamburg (Osthalle)\nGlockengießerwall",
+        "bemerkung": "LE CROBAG Shop Hamburg Hbf. Osthalle"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82917",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.032453633967616,
+          53.62091481856434
+        ]
+      },
+      "properties": {
+        "name": "LE CROBAG Hamburg Ohlsdorf",
+        "adresse": "Fuhlsbüttler Straße 761",
+        "ort": "22337 Hamburg",
+        "lage_information": "Im U-Bahnhof Ohlsdorf\nFuhlsbüttler Straße",
+        "bemerkung": "LE CROBAG Shop Ohlsdorf"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82918",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.970696253762636,
+          53.54606676511438
+        ]
+      },
+      "properties": {
+        "name": "LE CROBAG Hamburg Landungsbrücken",
+        "adresse": "Hafentor 1",
+        "ort": "20359 Hamburg",
+        "lage_information": "Im U-Banhof Landungsbrücken\nHafentor 1",
+        "bemerkung": "LE CROBAG Shop Landungsbrücken"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82919",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.993396184325075,
+          53.55254120273373
+        ]
+      },
+      "properties": {
+        "name": "LE CROBAG Hamburg Jungfernstieg",
+        "adresse": "Im Bahnhof Jungfernstieg",
+        "ort": "20354 Hamburg",
+        "lage_information": "Im Bahnhof Jungfernstieg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82920",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.949074735373658,
+          53.5618541176307
+        ]
+      },
+      "properties": {
+        "name": "LE CROBAG Hamburg Holstenstraße",
+        "adresse": "Holstenplatz",
+        "ort": "22765 Hamburg",
+        "lage_information": "Im S-Bahnhof Holstenstraße\nStresemannstraße/Holstenplatz",
+        "bemerkung": "LE CROBAG Shop Holstenstraße"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82921",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.00745949433396,
+          53.552324685357455
+        ]
+      },
+      "properties": {
+        "name": "LE CROBAG Hamburg HBF Süd U3",
+        "adresse": "Steintordamm",
+        "ort": "20099 Hamburg",
+        "lage_information": "Im Hauptbahnhof Hamburg Süd (U-Bahn)\nEcke Steintordamm",
+        "bemerkung": "LE CROBAG Shop Hamburg Hbf. Süd"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82922",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.118084605584027,
+          53.60708572917841
+        ]
+      },
+      "properties": {
+        "name": "LE CROBAG Hamburg Farmsen",
+        "adresse": "August-Krogmann-Straße 12",
+        "ort": "22159 Hamburg",
+        "lage_information": "Im U-Bahnhof Farmsen\nAugust-Krogmann-Straße",
+        "bemerkung": "LE CROBAG Shop Farmsen"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82923",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.995327906092298,
+          53.5518155511234
+        ]
+      },
+      "properties": {
+        "name": "LE CROBAG Hamburg Europa Passage",
+        "adresse": "Ballindamm 40",
+        "ort": "20095 Hamburg",
+        "lage_information": "Europa Passage (Eingang U-Bahn-Bergstraße)\nBallindamm",
+        "bemerkung": "LE CROBAG Shop Europa Passage"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82924",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.99017294538742,
+          53.560621608564674
+        ]
+      },
+      "properties": {
+        "name": "LE CROBAG Hamburg Dammtor II",
+        "adresse": "Theodor-Heuss-Platz 1",
+        "ort": "20354 Hamburg",
+        "lage_information": "Im Bahnhof Dammtor\nTheodor-Heuss-Platz",
+        "bemerkung": "LE CROBAG Shop Dammtor II"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82925",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.99017294538742,
+          53.560621608564674
+        ]
+      },
+      "properties": {
+        "name": "LE CROBAG Hamburg Dammtor I",
+        "adresse": "Theodor-Heuss-Platz 1",
+        "ort": "20354 Hamburg",
+        "lage_information": "Im Bahnhof Dammtor \nTheodor-Heuss-Platz",
+        "bemerkung": "LE CROBAG Shop Dammtor I"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82926",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.995348516494813,
+          53.54244704575733
+        ]
+      },
+      "properties": {
+        "name": "LE CROBAG Hamburg Hafencity",
+        "adresse": "Am Sandtorpark 6",
+        "ort": "20457 Hamburg",
+        "bemerkung": "LE CROBAG Shop Hafencity"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82927",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.989991013422049,
+          53.550223312182176
+        ]
+      },
+      "properties": {
+        "name": "LE CROBAG Hamburg Alter Wall",
+        "adresse": "Alter Wall 34-36",
+        "ort": "20457 Hamburg",
+        "bemerkung": "LE CROBAG Shop Alter Wall"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82928",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.934203320714477,
+          53.55213522869935
+        ]
+      },
+      "properties": {
+        "name": "LE CROBAG Altona Handelshaus",
+        "adresse": "Paul-Nevermann-Platz 12",
+        "ort": "22765 Hamburg",
+        "lage_information": "Im Bahnhof Altona (bei den Fernzügen)\nPaul-Nevermann-Platz",
+        "bemerkung": "LE CROBAG Shop Altona Handelshaus"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82929",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.81395304871607,
+          53.563860806378074
+        ]
+      },
+      "properties": {
+        "name": "LE CROBAG Hamburg Blankenese",
+        "adresse": "Erik-Blumenfeld-Platz 29",
+        "ort": "22587 Hamburg",
+        "lage_information": "Im S-Bahnhof Blankenese\nErik-Blumenfeld-Platz",
+        "bemerkung": "LE CROBAG Shop Blankenese"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82930",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.025024017079733,
+          53.5527057881526
+        ]
+      },
+      "properties": {
+        "name": "LE CROBAG Hamburg Berliner Tor S-Bahn",
+        "adresse": "Beim Strohhause",
+        "ort": "20097 Hamburg",
+        "lage_information": "Im S-Bahnhof Berliner Tor\nBeim Strohhause",
+        "bemerkung": "LE CROBAG Shop Berliner Tor (S-Bahn)"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82931",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.023554990232403,
+          53.55313186413425
+        ]
+      },
+      "properties": {
+        "name": "LE CROBAG Hamburg Berliner Tor U-Bahn",
+        "adresse": "Beim Strohhause",
+        "ort": "20097 Hamburg",
+        "bemerkung": "LE CROBAG Shop Berliner Tor (U-Bahn)"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82932",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.370786462624405,
+          53.435409009335324
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Bergedorfer Straße 53",
+        "ort": "21502 Geesthacht",
+        "lage_information": "Geesthacht"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82933",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.934203320714477,
+          53.55213522869935
+        ]
+      },
+      "properties": {
+        "name": "LE CROBAG Altona Basement",
+        "adresse": "Paul-Nevermann-Platz 12",
+        "ort": "22765 Hamburg",
+        "lage_information": "Im Bahnhof Altona (im Untergeschoss)\nPaul-Nevermann-Platz",
+        "bemerkung": "LE CROBAG Shop Altona Basement"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82934",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.985314337546814,
+          53.56585151124364
+        ]
+      },
+      "properties": {
+        "name": "Mensa Studierendenhaus",
+        "adresse": "Von-Melle-Park 2",
+        "ort": "20146 Hamburg",
+        "url_bild": "http://www.studierendenwerk-hamburg.de/images/mensen/Mensa-Studierendenhaus/lightbox_Mensa_Studierendenhaus_Gastraum.jpg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82935",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0178218090934,
+          53.55486596176703
+        ]
+      },
+      "properties": {
+        "name": "Café Alexanderstraße",
+        "adresse": "Alexanderstraße 1",
+        "ort": "20099 Hamburg",
+        "url_bild": "http://www.studierendenwerk-hamburg.de/images/mensen/Cafe-Alexanderstrasse/lightbox_Cafe_Alexanderstr_Gastraum_neu.jpg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82936",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.981811497537203,
+          53.55880887495034
+        ]
+      },
+      "properties": {
+        "name": "Café Jungiusstraße",
+        "adresse": "Jungiusstraße 9",
+        "ort": "20355 Hamburg",
+        "url_bild": "http://www.studierendenwerk-hamburg.de/images/mensen/Cafe-Jungiusstrasse/lightbox_Cafe_Jungius_aussen.jpg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82937",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.987007412800962,
+          53.684429965071615
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Berliner Allee 38a",
+        "ort": "22850 Norderstedt",
+        "lage_information": "Herold-Center EG"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82938",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.104928014508673,
+          53.54055411497377
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Billstedter Platz 42c",
+        "ort": "22111 Hamburg",
+        "lage_information": "Billstedt EKZ"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82939",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.981027218118488,
+          53.80062838363044
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Heinrich-Sebelien Straße 1",
+        "ort": "24558 Henstedt-Ulzburg",
+        "lage_information": "Henstedt-Ulzbg. Toom"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82940",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.06750437418309,
+          53.572011159124195
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Wandsbeker Marktstraße",
+        "ort": "22041 Hamburg",
+        "lage_information": "U-Bahn"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82941",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.062022567270144,
+          53.65369550502729
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Norbert-Schmid-Platz 3",
+        "ort": "22399 Hamburg"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82942",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.813585085619293,
+          53.56392335513537
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Erik-Blumenfeld-Platz 27a",
+        "ort": "22587 Hamburg",
+        "lage_information": "Blankeneser Bahnhofplatz"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KEHRWIEDER_BECHER_82943",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.985652299676204,
+          53.59046153660087
+        ]
+      },
+      "properties": {
+        "name": "Dat Backhus",
+        "adresse": "Kümmelstraße 4",
+        "ort": "20249 Hamburg",
+        "lage_information": "Eppendorf LIDL"
+      },
+      "srsName": "EPSG:4326"
+    }
+  ]
+}
